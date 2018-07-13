@@ -1,3 +1,5 @@
+<meta name="description" content="Temas Medievales es una publicación que se propone como un ámbito interdisciplinario de reflexión, discusión y divulgación de asuntos referidos a historia, filosofía, literatura y artes medievales." />
+
 <meta name="resource-type" content="document" />
 <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
 <meta http-equiv="content-language" content="sp-SP" />

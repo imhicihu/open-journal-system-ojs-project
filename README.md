@@ -17,7 +17,7 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/commits/https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
+* Please check the [Commits](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/commits/) section for the current status
 
 ### Who do I talk to? ###
 

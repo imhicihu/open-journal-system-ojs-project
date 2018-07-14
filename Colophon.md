@@ -6,7 +6,7 @@
     - 
     - 
 * Software
-    - 
+    - Designer rule (aka screen ruler): Google Chrome extension > chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html
     - 
     - 
     - 

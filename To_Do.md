@@ -6,3 +6,7 @@
 * icon test pass across devices: https://realfavicongenerator.net/favicon_checker?protocol=http&site=ojs-imhicihu.experttel.com.ar%2Findex.php%2F#.W0kI1NhKjOR
 * agregar `robot.txt`
 * agregar `.htaccess`
+* formato de archivos: 
+```
+OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://www.openoffice.org
+Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org```

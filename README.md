@@ -8,7 +8,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A kind of checklist on the setup of a e-journal
+    - A kind of checklist on the setup of e-journal repository
 * Version 1.01
 
 ### Issues ###

@@ -9,4 +9,6 @@
 * formato de archivos: 
 ```
 OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://www.openoffice.org
-Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org```
+Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org
+```
+* Fonts: some rewiews, checklist and hands on: [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/) 

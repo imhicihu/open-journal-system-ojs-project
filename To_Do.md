@@ -12,3 +12,7 @@ OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://ww
 Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org
 ```
 * Fonts: some rewiews, checklist and hands on: [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/) 
+* OJS Plugins: (install this)
+     - [backup](https://github.com/asmecher/backup)
+	 - Google Analytics
+	 - DOI

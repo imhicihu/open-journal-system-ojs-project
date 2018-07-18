@@ -1,4 +1,4 @@
-## Tutoriales
+## Tutorials (links related)
 
 * [Guía de usuarios de OJS](http://pkp.sfu.ca/ojs/docs/userguide/2.3.3/es/index.html)
 * [Manual de usuario de OJS: introducción al sistema Open Journal Systems](http://www.bdigital.unal.edu.co/3557/)
@@ -8,6 +8,6 @@
 * [Learning OJS 3](https://pkp.gitbook.io/ojs3/en/)
 * [PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide/en/theme-api) {Theme API} (a kind of tutorial how to create themes for the platform OJS) 
 
-## Enlaces
+## Miscellaneous Links
 
 * [OJS Latinoamérica](http://ojslatinamerica.blogspot.com/)

@@ -5,6 +5,7 @@
 * [Portal de revistas de OJS de la Universidad Nacional de La Plata](https://revistas.unlp.edu.ar/taller/issue/view/18)
 * [Taller de Introducción a OJS (Open Journal System) de la Universidad de Salamanca](http://ocw.usal.es/ensenanzas-tecnicas/taller-de-introduccion-a-ojs-open-journal-system)
 * [Foro de ayuda de OJS](http://pkp.sfu.ca/support/forum/) (en inglés)
+* [Learning OJS 3](https://pkp.gitbook.io/ojs3/en/)
 
 ## Enlaces
 

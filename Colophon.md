@@ -2,12 +2,12 @@
 
 * Hardware
      - Macbook 13 inches
-     - 
+     - Satechi Type-C Multiport Adapter
      - 
      - 
 * Software
-     - Designer rule (aka screen ruler): Google Chrome extension > chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html
-     - 
+     - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
+     - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
      - 
      - 
 

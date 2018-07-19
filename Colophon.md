@@ -9,7 +9,7 @@
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
      - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
      - Typography: Gill Sans
-     - 
+     - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
 
 ## Legal ##
 

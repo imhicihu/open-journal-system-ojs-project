@@ -4,6 +4,7 @@
      - _offline_: for the sake of template design
 	 - _online_: server side / production mode
 * Implies some kind of checklist to follow
+![TM25.png](https://bitbucket.org/repo/rpybXp8/images/3099136996-TM25.png)
 
 ### What is this repository for? ###
 

@@ -11,6 +11,10 @@
     - A kind of checklist on the setup of e-journal repository
 * Version 1.01
 
+### Source ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src)
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues?status=new&status=open)

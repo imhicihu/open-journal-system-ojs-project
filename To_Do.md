@@ -18,3 +18,5 @@ Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http:/
      - [backup](https://github.com/asmecher/backup)
 	 - Google Analytics
 	 - DOI
+	 
+* convert internal text (mainly editorial stuff) with `HTML Markup`

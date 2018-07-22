@@ -5,7 +5,7 @@
 	 - _online_: server side / production mode
 * Implies some kind of checklist to follow
 ![TM25.png](https://bitbucket.org/repo/rpybXp8/images/3099136996-TM25.png)
-
+> Pre-production stage: offline version
 ### What is this repository for? ###
 
 * Quick summary

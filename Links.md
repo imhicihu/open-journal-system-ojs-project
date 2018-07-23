@@ -11,3 +11,5 @@
 ## Miscellaneous Links
 
 * [OJS Latinoamérica](http://ojslatinamerica.blogspot.com/)
+* [Núcleo Básico de Revistas Científicas](http://www.caicyt.gov.ar:8087/omekatest/caicytsite/comunicacion-cientifica/nucleo-basico/)
+* [Revista Religión y Sociedad](http://www.ceil-conicet.gov.ar/ojs/index.php/sociedadyreligion/index)

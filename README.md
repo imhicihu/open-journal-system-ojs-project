@@ -21,6 +21,7 @@
 * Dependencies
     - [Gulp](https://gulpjs.com/)
     - [NPM])https://www.npmjs.com/)
+    - [Browsersync](https://browsersync.io/)
     
 ### Source ###
 

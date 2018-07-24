@@ -9,9 +9,19 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A kind of checklist on the setup of e-journal repository
+    - A kind of _checklist_ on the setup of an e-journal repository
 * Version 1.01
 
+### How do I get set up? ###
+
+* Summary of set up
+    - _In the making_
+* Configuration
+    - _In the making_
+* Dependencies
+    - [Gulp](https://gulpjs.com/)
+    - [NPM])https://www.npmjs.com/)
+    
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src)

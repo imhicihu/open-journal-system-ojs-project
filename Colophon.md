@@ -11,6 +11,7 @@
      - Typography: Gill Sans
      - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
      - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
+     - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets) 
 
 ## Legal ##
 

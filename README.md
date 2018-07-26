@@ -15,7 +15,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - _In the making_
+    - Vide [Colophon.md](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/bc926daaa58527e7792d1f1b3e2b39442486b78a/Colophon.md?at=master&fileviewer=file-view-default)
 * Configuration
     - _In the making_
 * Dependencies

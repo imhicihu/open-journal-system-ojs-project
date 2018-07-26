@@ -2,9 +2,8 @@
 
 * Hardware
      - Macbook 13 inches
-     - Satechi Type-C Multiport Adapter
+     - Satechi Type-C Multiport Adapter (hub USB & Network access)
      - Hosting: Consorcio Saavedra 15
-     - 
 * Software
      - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
@@ -21,6 +20,7 @@
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
+     - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
 
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)

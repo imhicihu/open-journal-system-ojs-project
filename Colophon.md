@@ -20,10 +20,11 @@
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
-     - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
 
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
+     - [Placeholder](https://placeholder.com/): image disposal
+     - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
 
 ## Legal ##
 

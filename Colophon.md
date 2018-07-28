@@ -25,6 +25,9 @@
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
      - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
+     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+     - http://responsivedesignchecker.com/ (responsive tests)
+     - http://deviceponsive.com/ (responsive tests)
 
 ## Legal ##
 

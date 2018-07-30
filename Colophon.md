@@ -20,6 +20,7 @@
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+     - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)

@@ -9,6 +9,9 @@
      - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
      - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
+     - [Gulp](https://gulpjs.com/)
+     - [NPM](https://www.npmjs.com/)
+     - [Browsersync](https://browsersync.io/)
      - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
      - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
      - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)

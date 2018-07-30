@@ -1,4 +1,5 @@
-* actualizar a la última versión estable de OJS (
+* Backup (no hay plugin para la última versión, por ende, hay que hacerlo de manera manual, via FTP o Panel de control)
+* actualizar a la última versión estable de OJS
 * crear archivo `.ico` (icon for the site)
 * discriminar los plugins (complementos) a instalar
 * generar checklist (OJS es bueno en mostrar el camino (path) por seguir)

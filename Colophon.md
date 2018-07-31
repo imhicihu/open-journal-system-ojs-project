@@ -31,6 +31,7 @@
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
+     - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
      - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - http://responsivedesignchecker.com/ (responsive tests)

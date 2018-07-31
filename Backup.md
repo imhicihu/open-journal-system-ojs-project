@@ -2,6 +2,8 @@
 * [Back up of the site](https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2)
 * [Backup Configuration](https://forum.pkp.sfu.ca/t/backup-configuration/23566)
 * [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
+* [[SOLVED] Where is the backup section of OJS 3.0.2](https://forum.pkp.sfu.ca/t/solved-where-is-the-backup-section-of-ojs-3-0-2/45567)
+![backup_official_response.png](https://bitbucket.org/repo/rpybXp8/images/120638853-backup_official_response.png)
 
 ## MySQL database (mysqldump procedure)
 * [How To Backup Databases Using mysqldump Tool](http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx)

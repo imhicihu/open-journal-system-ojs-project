@@ -1,5 +1,6 @@
 ## Tutorials (links related)
 
+* [OJS 3 gitbook](https://pkp.gitbook.io/ojs3/)
 * [Guía de usuarios de OJS](http://pkp.sfu.ca/ojs/docs/userguide/2.3.3/es/index.html)
 * [Manual de usuario de OJS: introducción al sistema Open Journal Systems](http://www.bdigital.unal.edu.co/3557/)
 * [Portal de revistas de OJS de la Universidad Nacional de La Plata](https://revistas.unlp.edu.ar/taller/issue/view/18)

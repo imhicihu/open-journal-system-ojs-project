@@ -1,5 +1,6 @@
 ## Forum
-* https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2
+* [Back up of the site](https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2)
+* [Backup Configuration](https://forum.pkp.sfu.ca/t/backup-configuration/23566)
 * [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
 
 ## MySQL database (mysqldump procedure)

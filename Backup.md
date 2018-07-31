@@ -2,6 +2,9 @@
 * https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2
 * https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html
 
+## MySQL database (mysqldump procedure)
+* [How To Backup Databases Using mysqldump Tool](http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx)
+
 # config.inc.php (check this settings)
 
       ; Enable support for running scheduled tasks

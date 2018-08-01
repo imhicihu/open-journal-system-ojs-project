@@ -21,7 +21,9 @@
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
-     - Browser test (responsive _et alia_)
+     - Browser & Responsive Test
+          - http://responsivedesignchecker.com/ (responsive tests)
+          - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
@@ -44,14 +46,12 @@
      - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
      - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+     - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - Accesibility tests
-          - Aria
+          - [2Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
      - Google velocity tests
-          - Google Page test
-          - Pingdom
-     - Responsive tests
-          - http://responsivedesignchecker.com/ (responsive tests)
-          - http://deviceponsive.com/ (responsive tests)
+          - [Google Page test](https://developers.google.com/speed/)
+          - [Pingdom](https://www.pingdom.com/product/page-speed/)
 
 ## Legal ##
 

@@ -2,8 +2,8 @@
 * Enable this plugins:
      * iThenticate
      * QuickSubmit
-     * Allowed Uploads
+     * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
      * Custom Header
-     - [backup](https://github.com/asmecher/backup)
-	 - Google Analytics
-	 - DOI
+     * [backup](https://github.com/asmecher/backup)
+	 * Google Analytics
+	 * DOI

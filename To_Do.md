@@ -21,7 +21,7 @@
 * agregar la dirección definitiva del sitio en [UptimeRobot](https://uptimerobot.com/); [Monitor.Us](http://www.monitis.com/); [Montastic](http://montastic.com/);  [BasicState](http://basicstate.com/)
 
 ## OJS Legales
-* cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript
+* ~~Cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript~~ --> Hecho. Más info [aquí](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues/6/workflow-texto-de-las-cookies)
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). 
 
 ## OJS Misceláneas

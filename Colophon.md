@@ -18,6 +18,7 @@
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
           - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
+          - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
@@ -25,20 +26,20 @@
           - http://responsivedesignchecker.com/ (responsive tests)
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
+          - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
      - Fonts:
           - [Google Fonts](https://fonts.google.com/)
+          - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
-     - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
-
 
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
@@ -49,9 +50,10 @@
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - Accesibility tests
           - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
-     - Google velocity tests
+     - Velocity tests
           - [Google Page test](https://developers.google.com/speed/)
           - [Pingdom](https://www.pingdom.com/product/page-speed/)
+          - [HTTP vs HTTPS](https://www.httpvshttps.com/)
 
 ## Legal ##
 

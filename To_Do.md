@@ -25,6 +25,8 @@
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). 
 
 ## OJS Misceláneas
+* Generar estas páginas estáticas:
+     - 404 (página no encontrada)
 * Donde dice: `Contacte con su administrador/a del sitio (imhicihu conicet, mail@imhicihu-conicet.gov.ar) para avisarles de esta nueva versión`. **CAMBIAR EL CORREO ELECTRONICO** Esta leyenda se encuentra [acá](http://ojs-imhicihu.experttel.com.ar/index.php/TemasMedievales/management/settings/context)
 * todas las imágenes deben tener su correspondiente descripción, uno para semantizar todos los elementos de la página, más aun, mejorar la "calificación" de los buscadores, más aun, para cumplir con las reglas de "Buenas prácticas" (**agregar referencias de ARIA norms**)
 * dar soporte a [Citation Style](https://github.com/citation-style-language)

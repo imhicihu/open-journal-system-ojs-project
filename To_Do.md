@@ -19,6 +19,7 @@
 
 ## OJS Seguridad
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
+* Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default)
 * agregar la dirección definitiva del sitio en 
      - [UptimeRobot](https://uptimerobot.com/); 
      - [Monitor.Us](http://www.monitis.com/); 

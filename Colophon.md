@@ -34,7 +34,7 @@
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
-          - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
+     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
      - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
@@ -48,7 +48,7 @@
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - Accesibility tests
-          - [2Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
+          - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
      - Google velocity tests
           - [Google Page test](https://developers.google.com/speed/)
           - [Pingdom](https://www.pingdom.com/product/page-speed/)

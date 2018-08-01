@@ -41,8 +41,14 @@
      - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
      - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
-     - http://responsivedesignchecker.com/ (responsive tests)
-     - http://deviceponsive.com/ (responsive tests)
+     - Accesibility tests
+          - Aria
+     - Google velocity tests
+          - Google Page test
+          - Pingdom
+     - Responsive tests
+          - http://responsivedesignchecker.com/ (responsive tests)
+          - http://deviceponsive.com/ (responsive tests)
 
 ## Legal ##
 

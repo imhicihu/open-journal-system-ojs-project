@@ -17,6 +17,10 @@
 ## OJS Plugins
 * ~~discriminar los _plugins_ a instalar~~  ---> Hecho ----> Ver [`plugins.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/17e63fd547d1a2a6bdbac5cfe35cbe4508f15013/Plugins.md?at=master&fileviewer=file-view-default)
 
+## OJS Analíticas
+* ~~habilitar el plugin `Google Analytics Plugin`.~~
+* hay que relacionarlo con una cuenta de Gmail
+
 ## OJS Seguridad
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
 * Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default)

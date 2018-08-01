@@ -1,7 +1,3 @@
-## Backup
-* ~~Backup (no hay plugin para la última versión, por ende, hay que hacerlo de manera manual, via FTP o Panel de control)~~
-* Más información recabada, ver [`backup.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/eb57ad32778c727442dbf0b3628681697273e36a/Backup.md?at=master&fileviewer=file-view-default)
-
 ## Server
 * agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location)
 * agregar `.htaccess`.
@@ -14,17 +10,21 @@
 * Cómo saber que versión tenemos instalada. Consultar este [snippet](https://bitbucket.org/snippets/imhicihu/6eggK8/verify-with-version-is-installed-on-my)
 * Generar _checklist_ que muestre el flujo de trabajo: envío, corrección, publicación de los _papers_. Más información [acá](https://pkp.sfu.ca/wiki/index.php?title=OJS_Workflow:_Stages)
 
+## OJS Backup
+* ~~Backup (no hay plugin para la última versión, por ende, hay que hacerlo de manera manual, via FTP o Panel de control)~~
+* Más información recabada, ver [`backup.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/eb57ad32778c727442dbf0b3628681697273e36a/Backup.md?at=master&fileviewer=file-view-default)
+
 ## OJS Plugins
 * ~~discriminar los _plugins_ a instalar~~  ---> Hecho ----> Ver [`plugins.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/17e63fd547d1a2a6bdbac5cfe35cbe4508f15013/Plugins.md?at=master&fileviewer=file-view-default)
 
-## Seguridad
+## OJS Seguridad
 * agregar la dirección definitiva del sitio en [UptimeRobot](https://uptimerobot.com/); [Monitor.Us](http://www.monitis.com/); [Montastic](http://montastic.com/);  [BasicState](http://basicstate.com/)
 
-## Legales
+## OJS Legales
 * cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). 
 
-## Varia
+## OJS Misceláneas
 * Donde dice: `Contacte con su administrador/a del sitio (imhicihu conicet, mail@imhicihu-conicet.gov.ar) para avisarles de esta nueva versión`. **CAMBIAR EL CORREO ELECTRONICO** Esta leyenda se encuentra [acá](http://ojs-imhicihu.experttel.com.ar/index.php/TemasMedievales/management/settings/context)
 * todas las imágenes deben tener su correspondiente descripción, uno para semantizar todos los elementos de la página, más aun, mejorar la "calificación" de los buscadores, más aun, para cumplir con las reglas de "Buenas prácticas" (**agregar referencias de ARIA norms**)
 * dar soporte a [Citation Style](https://github.com/citation-style-language)

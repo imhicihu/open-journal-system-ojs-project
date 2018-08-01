@@ -23,3 +23,5 @@ Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http:/
 	 
 * convert internal text (mainly editorial stuff) with `HTML Markup`
 * test fonts with this: [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
+* cookies (policy & creation of legal texts)
+* privacy issues (creation of legal texts according our country and beyond)

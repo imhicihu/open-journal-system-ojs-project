@@ -18,7 +18,12 @@
 * ~~discriminar los _plugins_ a instalar~~  ---> Hecho ----> Ver [`plugins.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/17e63fd547d1a2a6bdbac5cfe35cbe4508f15013/Plugins.md?at=master&fileviewer=file-view-default)
 
 ## OJS Seguridad
-* agregar la dirección definitiva del sitio en [UptimeRobot](https://uptimerobot.com/); [Monitor.Us](http://www.monitis.com/); [Montastic](http://montastic.com/);  [BasicState](http://basicstate.com/)
+* restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
+* agregar la dirección definitiva del sitio en 
+     - [UptimeRobot](https://uptimerobot.com/); 
+     - [Monitor.Us](http://www.monitis.com/); 
+     - [Montastic](http://montastic.com/);  
+     - [BasicState](http://basicstate.com/)
 
 ## OJS Legales
 * ~~Cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript~~ --> Hecho. Más info [aquí](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues/6/workflow-texto-de-las-cookies)
@@ -33,8 +38,9 @@
 * dar soporte a [Citation Style](https://github.com/citation-style-language)
 * formato de archivos contemplados: 
 ```
-OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://www.openoffice.org
-Alternately, Mac users can use NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org
+     LibreOffice 
+     OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://www.openoffice.org
+     NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org
 ```
 * Fonts: some rewiews, checklist and hands on: [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
 * convert internal text (mainly editorial stuff) with `HTML Markup`

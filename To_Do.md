@@ -25,6 +25,7 @@
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). 
 
 ## OJS Misceláneas
+* Generar mapa del sitio. Primera condición: definir la dirección de internet definitiva (URL). Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)
 * Generar estas páginas estáticas:
      - 404 (página no encontrada)
 * Donde dice: `Contacte con su administrador/a del sitio (imhicihu conicet, mail@imhicihu-conicet.gov.ar) para avisarles de esta nueva versión`. **CAMBIAR EL CORREO ELECTRONICO** Esta leyenda se encuentra [acá](http://ojs-imhicihu.experttel.com.ar/index.php/TemasMedievales/management/settings/context)

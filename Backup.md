@@ -37,6 +37,11 @@
       ; Allow javascript files to be served through a content delivery network (set to off to use local files)
       enable_cdn = On  (CHANGE TO THIS)  (BOOTSTRAP FOSTER CDN linking, so keep it)
       
+## Links
+* https://forum.pkp.sfu.ca/t/backup-configuration/23566
+* https://forum.pkp.sfu.ca/t/after-upgrading-2-4-6-backup-database-doesnt-work/724
+* query of [backup](https://forum.pkp.sfu.ca/search?q=backup) term on OJS forum
+      
       
 	  
 	  

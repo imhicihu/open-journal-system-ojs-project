@@ -21,6 +21,11 @@
 * ~~habilitar el plugin `Google Analytics Plugin`.~~
 * hay que relacionarlo con una cuenta de Gmail
 
+## OJS Tipografía
+* [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
+* enfocarse en el `HTML Markup` y en el esquema `xlm`
+* [Font Testing Page](https://github.com/impallari/Font-Testing-Page/): tests de tipografías en pantalla (kerning, interlineado, etc.)
+
 ## OJS Seguridad
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
 * Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default).   Solución: habilitar el plugin [`Allowed uploads`](https://github.com/ajnyga/allowedUploads)
@@ -44,9 +49,6 @@
 * formato de archivos contemplados: 
 ```
      LibreOffice 
-     OpenOffice may be obtained free of charge for Windows, Mac, and Linux: http://www.openoffice.org
-     NeoOffice, an OpenOffice port for the Mac: http://www.neooffice.org
+     [OpenOffice](http://www.openoffice.org)
+     [NeoOffice](http://www.neooffice.org)
 ```
-* Fonts: some rewiews, checklist and hands on: [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
-* convert internal text (mainly editorial stuff) with `HTML Markup`
-* test fonts with this: [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)

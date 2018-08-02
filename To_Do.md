@@ -30,9 +30,9 @@
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
 * Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default).   Solución: habilitar el plugin [`Allowed uploads`](https://github.com/ajnyga/allowedUploads)
 * agregar la dirección definitiva del sitio en 
-     - [UptimeRobot](https://uptimerobot.com/); 
-     - [Monitor.Us](http://www.monitis.com/); 
-     - [Montastic](http://montastic.com/);  
+     - [UptimeRobot](https://uptimerobot.com/)
+     - [Monitor.Us](http://www.monitis.com/)
+     - [Montastic](http://montastic.com/)
      - [BasicState](http://basicstate.com/)
 
 ## OJS Legales
@@ -42,13 +42,14 @@
 ## OJS Misceláneas
 * Generar mapa del sitio. Primera condición: definir la dirección de internet definitiva (URL). Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)
 * Generar estas páginas estáticas:
-     - 404 (página no encontrada)
+     - 404 Page not found (_Página no encontrada_)
+     - 503 Service Temporarily Unavailable (_Servicio temporariamente no disponible_)
 * Donde dice: `Contacte con su administrador/a del sitio (imhicihu conicet, mail@imhicihu-conicet.gov.ar) para avisarles de esta nueva versión`. **CAMBIAR EL CORREO ELECTRONICO** Esta leyenda se encuentra [acá](http://ojs-imhicihu.experttel.com.ar/index.php/TemasMedievales/management/settings/context)
 * todas las imágenes deben tener su correspondiente descripción, uno para semantizar todos los elementos de la página, más aun, mejorar la "calificación" de los buscadores, más aun, para cumplir con las reglas de "Buenas prácticas" (**agregar referencias de ARIA norms**)
 * dar soporte a [Citation Style](https://github.com/citation-style-language)
 * formato de archivos contemplados: 
 ```
-     LibreOffice 
+     [LibreOffice](https://www.documentfoundation.org/) 
      [OpenOffice](http://www.openoffice.org)
      [NeoOffice](http://www.neooffice.org)
 ```

@@ -15,6 +15,7 @@
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)
      - Coding
+          - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
           - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)

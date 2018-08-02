@@ -28,6 +28,7 @@
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
+          - [Chris Pederick´s web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
@@ -50,6 +51,7 @@
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - Accesibility tests
+          - [Wave](http://wave.webaim.org/)
           - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
      - Velocity tests
           - [Google Page test](https://developers.google.com/speed/)

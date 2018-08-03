@@ -1,5 +1,5 @@
 ## Server
-* agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location)
+* agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
 * agregar `.htaccess`.
 * agregar `favicon.ico`.
 * Pasar el test de íconos a través de los distintos dispositivos _et alia_. URL: https://realfavicongenerator.net/

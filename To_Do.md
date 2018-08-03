@@ -19,7 +19,8 @@
 
 ## OJS Analíticas
 * ~~habilitar el plugin `Google Analytics Plugin`.~~
-* hay que relacionarlo con una cuenta de Gmail
+* hay que relacionarlo con una cuenta de Gmail, ergo, hay que poseer una cuenta de Gmail.
+* procedimiento para insertar el código de seguimiento de Google Analytics dentro del sitio y/o complemento (léase `plugin`) [acá](https://support.google.com/analytics/answer/1008080?hl=es)
 
 ## OJS Tipografía
 * [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
@@ -28,6 +29,7 @@
 
 ## OJS Seguridad
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
+* asociar una cuenta de Gmail para después habilitar `Recaptcha`. Aquí está el [procedimiento](https://www.google.com/recaptcha/admin?hl=es#list) a seguir
 * Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default).   Solución: habilitar el plugin [`Allowed uploads`](https://github.com/ajnyga/allowedUploads)
 * agregar la dirección definitiva del sitio en 
      - [UptimeRobot](https://uptimerobot.com/)

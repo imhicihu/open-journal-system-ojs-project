@@ -55,3 +55,4 @@
      [OpenOffice](http://www.openoffice.org)
      [NeoOffice](http://www.neooffice.org)
 ```
+* Open Typesetting Stack --> para convertir doc a html & xml. Más data [acá](https://pkp.sfu.ca/open-typesetting-stack/)

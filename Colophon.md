@@ -16,8 +16,11 @@
           - [NPM](https://www.npmjs.com/)
      - Coding
           - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
+          - [Atom](https://atom.io) (code editor)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
           - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
+          - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
+          - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
           - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
      - Table HTML editor:
@@ -28,7 +31,7 @@
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
-          - [Chris PederickÂ´s web developer](https://chrispederick.com/work/web-developer/)
+          - [Chris Pederick´s web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
@@ -47,7 +50,7 @@
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
      - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
-     - Graphics & code encoders and decoders: [Base64](https://www.base64encode.org/)
+     - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - Accesibility tests

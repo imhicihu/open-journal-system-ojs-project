@@ -5,9 +5,16 @@
 	 - _online_: server side / production mode
 * Implies some kind of checklist to follow
 ![TM25.png](https://bitbucket.org/repo/rpybXp8/images/3099136996-TM25.png)
+
 > version 1
 ![temas_dos.png](https://bitbucket.org/repo/rpybXp8/images/829942321-temas_dos.png)
+
 > version 2
+
+![book-3D.png](https://bitbucket.org/repo/rpybXp8/images/2004126747-book-3D.png)
+
+> Book 3D (needs final render)
+
 ### What is this repository for? ###
 
 * Quick summary

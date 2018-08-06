@@ -41,6 +41,15 @@
 * ~~Cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript~~ --> Hecho. Más info [aquí](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues/6/workflow-texto-de-las-cookies)
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). Ver [`Privacidad.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/d984b71e541d43893651dacec2ca34eb1ea44e41/Privacidad.md?at=master&fileviewer=file-view-default) a modo de ejemplo
 
+## OJS Plantilla
+* crear plantilla (ej: `.dot` para archivos de Microsoft Word®) conteniendo:
+     - título
+     - subtítulo 1
+     - subtítulo 2
+     - subtítulo 3
+     - leyenda
+     - Bibliografía
+
 ## OJS Misceláneas
 * Generar mapa del sitio. Primera condición: definir la dirección de internet definitiva (URL). Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)
 * Generar estas páginas estáticas:
@@ -56,3 +65,8 @@
      [NeoOffice](http://www.neooffice.org)
 ```
 * Open Typesetting Stack --> para convertir doc a html & xml. Más data [acá](https://pkp.sfu.ca/open-typesetting-stack/)
+
+
+## Legal ##
+
+* All trademarks are the property of their respective owners.

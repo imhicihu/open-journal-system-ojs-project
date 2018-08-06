@@ -15,6 +15,8 @@
 
 > Book 3D (needs final render)
 
+![2018-08-06 14.33.00.gif](https://bitbucket.org/repo/rpybXp8/images/763418597-2018-08-06%2014.33.00.gif)
+
 ### What is this repository for? ###
 
 * Quick summary

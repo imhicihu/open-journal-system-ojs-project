@@ -47,6 +47,7 @@
           * [Bootply](https://www.bootply.com/)
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+     - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
 
 * Online tools

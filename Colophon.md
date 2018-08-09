@@ -15,6 +15,9 @@
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)
      - Coding
+          - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
+          - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
+          ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
           - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io) (code editor)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
@@ -31,7 +34,7 @@
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
-          - [Chris Pederick´s web developer](https://chrispederick.com/work/web-developer/)
+          - [Chris Pederickï¿½s web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`

@@ -1,6 +1,10 @@
 ## Plantillas (templates)
 * generar plantillas de estilos (`.dot en Microsoft Word`) para generar uniformidad en el resultado final, sea en la versión pdf, xml y html.
 
+## Tipografías
+* en el caso de grafías (latín, idiomas orientales, lenguas muertas) deben suministrarse los archivos: formato truetype, open type, etc. 
+* asimismo, debe especificarse si es del tipo `right to left`, `up to down` (japanese)
+
 ## Server
 * agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
 * agregar `.htaccess`. Más información puede encontrarse [aquí](https://hipertextual.com/archivo/2012/07/archivo-htaccess-apache/)

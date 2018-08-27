@@ -44,6 +44,7 @@
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
+          * [Epic Bootstrap](https://epicbootstrap.com/)
           * [Bootply](https://www.bootply.com/)
      - Accesibility tests:
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.

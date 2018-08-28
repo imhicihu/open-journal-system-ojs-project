@@ -34,7 +34,7 @@
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
-          - [Chris Pederick�s web developer](https://chrispederick.com/work/web-developer/)
+          - [Chris Pederick's web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
@@ -46,6 +46,7 @@
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)
           * [Bootply](https://www.bootply.com/)
+          * [Bootstrap.build](https://bootstrap.build/app)
      - Accesibility tests:
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)

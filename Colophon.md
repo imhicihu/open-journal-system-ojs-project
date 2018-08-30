@@ -29,6 +29,10 @@
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+     - 3D
+          * [Blender](https://www.blender.org/): 3D creation & edition
+     - 3D render
+          * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
      - Browser & Responsive Test
           - http://responsivedesignchecker.com/ (responsive tests)
           - http://deviceponsive.com/ (responsive tests)
@@ -63,6 +67,7 @@
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
+     - [Libraries.io](https://libraries.io/): searcher of open-source projects
      - Accesibility tests
           - [Wave](http://wave.webaim.org/)
           - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)

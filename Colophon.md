@@ -44,6 +44,7 @@
                * Then go to `Develop` > `Enter Responsive Design Mode`
      - Fonts:
           - [Google Fonts](https://fonts.google.com/)
+          * [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
      - Bootstrap editors:

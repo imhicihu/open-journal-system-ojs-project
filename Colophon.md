@@ -62,6 +62,7 @@
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
 
 * Online tools
+     - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
      - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal

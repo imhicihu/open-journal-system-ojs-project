@@ -7,7 +7,8 @@
 * [Taller de Introducción a OJS (Open Journal System) de la Universidad de Salamanca](http://ocw.usal.es/ensenanzas-tecnicas/taller-de-introduccion-a-ojs-open-journal-system)
 * [Foro de ayuda de OJS](http://pkp.sfu.ca/support/forum/) (en inglés)
 * [Learning OJS 3](https://pkp.gitbook.io/ojs3/en/)
-* [PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide/en/theme-api) {Theme API} (a kind of tutorial how to create themes for the platform OJS): not running up to now :(
+* ~~[PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide/en/theme-api) {Theme API} (a kind of tutorial how to create themes for the platform OJS):~~ not running up to now :(
+* [Official documentation about themes inside OJS](https://github.com/pkp/pkp-docs/tree/master/pkp-theming-guide/en)
 
 ## Miscellaneous Links
 

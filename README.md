@@ -1,4 +1,5 @@
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg)
 
 # RATIONALE #
 

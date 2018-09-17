@@ -10,6 +10,9 @@
 * ~~[PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide/en/theme-api) {Theme API} (a kind of tutorial how to create themes for the platform OJS):~~ not running up to now :(
 * [Official documentation about themes inside OJS](https://github.com/pkp/pkp-docs/tree/master/pkp-theming-guide/en)
 
+## Themes
+* [Official theme's showroom](https://demo.publicknowledgeproject.org/ojs3/demo/)
+
 ## Miscellaneous Links
 
 * [OJS Latinoamérica](http://ojslatinamerica.blogspot.com/)

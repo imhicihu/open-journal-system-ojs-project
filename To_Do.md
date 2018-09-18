@@ -10,7 +10,7 @@
 * agregar `.htaccess`. Más información puede encontrarse [aquí](https://hipertextual.com/archivo/2012/07/archivo-htaccess-apache/)
 * agregar `favicon.ico`.
 * Pasar el test de íconos a través de los distintos dispositivos _et alia_. URL: https://realfavicongenerator.net/
-* Chequear / generar archivo [CNAME](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/ebb5ba07eed0078ac583cfd8e25170832d857228/CNAME?at=master&fileviewer=file-view-default) en el servidor (esta es la última instancia, una vez que esté todo listo para ir _online_).
+* ~~Chequear~~ / ~~generar archivo~~ [CNAME](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/ebb5ba07eed0078ac583cfd8e25170832d857228/CNAME?at=master&fileviewer=file-view-default) en el servidor (esta es la última instancia, una vez que esté todo listo para ir _online_). --> hecho
 
 ## OJS
 * ~~actualizar a la última versión estable de OJS~~ --> hecho

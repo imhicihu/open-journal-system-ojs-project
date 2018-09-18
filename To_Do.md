@@ -49,6 +49,7 @@
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). Ver [`Privacidad.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/d984b71e541d43893651dacec2ca34eb1ea44e41/Privacidad.md?at=master&fileviewer=file-view-default) a modo de ejemplo
 
 ## OJS Plantilla
+* intimamente relacionado con la generación/conversión automática a formatos `XML` & `html`
 * crear plantilla (ej: `.dot` para archivos de Microsoft Word®) conteniendo:
      - título
      - subtítulo 1
@@ -56,6 +57,7 @@
      - subtítulo 3
      - leyenda
      - Bibliografía
+* el archivo resultante, copiarlo o transferirlo a este repositorio: https://bitbucket.org/imhicihu/template-of-digital-publication/
 
 ## OJS Misceláneas
 * Generar mapa del sitio. Primera condición: definir la dirección de internet definitiva (URL). Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)

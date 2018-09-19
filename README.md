@@ -67,4 +67,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the MIT license
+* The content of this project itself is licensed under the MIT license and some others licences can apply.

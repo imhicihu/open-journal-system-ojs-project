@@ -30,7 +30,7 @@
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
-     - 3D
+     - 3D digital asset creator
           * [Blender](https://www.blender.org/): 3D creation & edition
      - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
@@ -59,6 +59,7 @@
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
      - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
+     - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
      - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
 

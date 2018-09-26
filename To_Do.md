@@ -33,6 +33,7 @@
 ## OJS Tipografía
 * [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
 * enfocarse en el `HTML Markup` y en el esquema `xlm`
+![glyphs.png](https://bitbucket.org/repo/rpybXp8/images/3991009943-glyphs.png)
 * [Font Testing Page](https://github.com/impallari/Font-Testing-Page/): tests de tipografías en pantalla (kerning, interlineado, etc.)
 
 ## OJS Seguridad

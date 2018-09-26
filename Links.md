@@ -12,6 +12,7 @@
 * [Official documentation about themes inside OJS](https://github.com/pkp/pkp-docs/tree/master/pkp-theming-guide/en)
 
 ## Themes
+* [OJS's Github official theming guide](https://github.com/pkp/pkp-docs/tree/master/pkp-theming-guide)
 * [Official theme's showroom](https://demo.publicknowledgeproject.org/ojs3/demo/)
 
 ## Miscellaneous Links

@@ -7,3 +7,4 @@
     ![noto.png](https://bitbucket.org/repo/rpybXp8/images/2848148229-noto.png)
     - [Noto webfont](https://fonts.google.com/?query=noto)
     - [Noto variants](https://en.wikipedia.org/wiki/Noto_fonts)
+    - Legal stuff: `All Noto fonts are published under the SIL Open Font License (OFL) v1.1, which allows you to copy, modify, and redistribute them if you need to`

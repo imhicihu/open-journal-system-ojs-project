@@ -8,3 +8,4 @@
     - [Noto webfont](https://fonts.google.com/?query=noto)
     - [Noto variants](https://en.wikipedia.org/wiki/Noto_fonts)
     - Legal stuff: `All Noto fonts are published under the SIL Open Font License (OFL) v1.1, which allows you to copy, modify, and redistribute them if you need to`
+    - [web fonts optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=es-419)

@@ -1,4 +1,4 @@
-## Cron jobs
+## Cron jobs --> DONE
 * via Github OJS [Scheduled tasks](https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks) run this script:
 ```# crontab -e www
 0 * * * *	php /path/to/ojs/tools/runScheduledTasks.php
@@ -20,7 +20,7 @@
       ; Enable support for running scheduled tasks
       ; Set this to On if you have set up the scheduled tasks script to
       ; execute periodically
-        scheduled_tasks = Off (CHANGE TO THIS)
+        scheduled_tasks = On (CHANGE TO THIS)
 		
 	  ; Site time zone
       ; Please refer to lib/pkp/registry/timeZones.xml for a full list of supported

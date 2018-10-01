@@ -73,6 +73,7 @@
      - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+     - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - [Libraries.io](https://libraries.io/): searcher of open-source projects
      - Accesibility tests

@@ -5,7 +5,7 @@
      - Satechi Type-C Multiport Adapter (hub USB & Network access)
      - _Hosting_: Consorcio Saavedra 15
 * Software
-     - Local server environment on MacOSX)
+     - Local server environment on MacOSX
           - [Mamp](https://www.mamp.info)
           - [httpster](https://github.com/SimbCo/httpster)
      - OJS

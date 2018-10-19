@@ -71,7 +71,9 @@
      - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
-     - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
+     - Icon
+          - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
+          - [Favicon creator](https://favicon.io/): creation from a plethora of modes
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties

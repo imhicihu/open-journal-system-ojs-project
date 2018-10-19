@@ -43,6 +43,7 @@
       
       ; Allow javascript files to be served through a content delivery network (set to off to use local files)
       enable_cdn = On  (CHANGE TO THIS)  (BOOTSTRAP FOSTER CDN linking, so keep it)
+   ![config-php.jpg](https://bitbucket.org/repo/rpybXp8/images/4241243587-config-php.jpg)
       
 ## Links
 * https://forum.pkp.sfu.ca/t/backup-configuration/23566

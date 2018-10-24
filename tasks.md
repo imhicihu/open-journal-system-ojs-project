@@ -1,0 +1,65 @@
+- [-] Servidor
+	- [ ] Plantillas
+		- [ ] Subirlas y habilitarlas
+		- [ ] Habilitar Custom page plugin
+		- [ ] Crear estas páginas estáticas:
+			- [ ] 404.html (Page not found)
+			- [ ] Colophon page
+			- [ ] 503.html (service unavailable)
+			- [ ] Status online (estado del arte del servidor)
+			- [ ] Política de cookies (texto)
+			- [ ] Política de privacidad (texto)
+			- [ ] Mapa del sitio
+	- [ ] Iconos
+		- [ ] favicon.ico
+		- [ ] verificar con: https://realfavicongenerator.net/
+	- [-] Backup
+		- [+] CRON job
+			- [+] Ver: https://bitbucket.org/snippets/imhicihu/bed47L/ojs-cron-job
+		- [+] Habilitar Backup plugin
+			- [+] Ver: https://pkp.sfu.ca/ojs/doxygen/master/html/group__plugins__generic__backup.html
+		- [+] Scheduled tasks
+			- [+] Ver: https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks
+		- [ ] mySQL database
+			- [ ] Ver: http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx
+	- [ ] Tipografías
+		- [ ] webfont: hosted by Google
+		- [ ] left to right / right to left (take in count for screen reader and font, kerning and spacing between parties)
+		- [ ] western / eastern idioms
+		- [ ] Google Noto: multi-idiom, ligatures, kerning, no bandwithd consume
+		- [ ] Font testing page: https://github.com/impallari/Font-Testing-Page/
+	- [-] Seguridad
+		- [ ] https & ssl certificates
+		- [+] .hjtaccess
+		- [ ] Spam & bots
+			- [ ] Relacionar cuenta de Gmail con Google Recaptcha. Ver: https://www.google.com/recaptcha/intro/v3beta.html
+		- [+] robot.txt
+			- [+] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/robot.txt?at=master&fileviewer=file-view-default
+		- [ ] CNAME
+			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/CNAME?at=master
+		- [ ] config.inc.php
+			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/config.inc.php/config.inc.md?at=master&fileviewer=file-view-default
+		- [+] Habilitar File Type restriction plugin
+			- [+] Ver https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/file_type_restriction.md?at=master&fileviewer=file-view-default
+		- [ ] Monitor online
+			- [ ] Agregar URL a estos sitios:
+				- [ ] Monitor us > https://www.monitis.com/
+				- [ ] UptimeRobot > https://uptimerobot.com/
+				- [ ] Montastic > https://montastic.com/
+				- [ ] BasicState > http://basicstate.com/
+	- [+] Plugins
+		- [+] iThenticate: habilitado
+		- [+] QuickSubmit: habilitado
+		- [+] Allowed uploads: habilitado
+		- [+] Custom header: habilitado
+		- [+] Backup: habilitado
+		- [+] Google Analytics: habilitado
+		- [+] DOI: habilitado
+	- [-] Analíticas
+		- [+] Habilitar Google Analytics plugin
+		- [ ] abrir cuenta de Gmail. Relacionar dicha cuenta con Google Analytics y el servidor conteniendo el OJS
+	- [ ] Legales
+		- [ ] Política de cookies
+			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues/6/workflow-texto-de-las-cookies
+		- [ ] Política de privacidad
+			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/d984b71e541d43893651dacec2ca34eb1ea44e41/Privacidad.md?at=master&fileviewer=file-view-default

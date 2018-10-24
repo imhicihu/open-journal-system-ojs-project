@@ -44,6 +44,8 @@
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
+     - HTTPs:
+          - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
      - Fonts:
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 

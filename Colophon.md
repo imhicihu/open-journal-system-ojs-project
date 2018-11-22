@@ -17,7 +17,9 @@
      - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
+            
           ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
+          
           - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
@@ -51,7 +53,9 @@
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
           - [Google Noto](https://www.google.com/get/noto/)
+          
           ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)
+          
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
@@ -73,7 +77,7 @@
      - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
-     - Icon
+     - Icons:
           - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
           - [Favicon creator](https://favicon.io/): creation from a plethora of modes
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
@@ -89,6 +93,9 @@
           - [Pingdom](https://www.pingdom.com/product/page-speed/)
           - [HTTP vs HTTPS](https://www.httpvshttps.com/)
 
+* Documentation
+     - [Developer certificate](https://developercertificate.org/)
+     
 ## Legal ##
 
 * All trademarks are the property of their respective owners.

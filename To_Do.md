@@ -24,6 +24,7 @@
 
 ## OJS Plugins
 * ~~discriminar los _plugins_ a instalar~~  ---> Hecho ----> Ver [`plugins.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/17e63fd547d1a2a6bdbac5cfe35cbe4508f15013/Plugins.md?at=master&fileviewer=file-view-default)
+* ~~translation of plugins~~ ---> Hecho
 
 ## OJS Analíticas
 * habilitar el plugin `Google Analytics Plugin`.

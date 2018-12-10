@@ -1,0 +1,1 @@
+* Check some insights from this [thread](https://stackoverflow.com/questions/5127838/where-does-php-store-the-error-log-php5-apache-fastcgi-cpanel)

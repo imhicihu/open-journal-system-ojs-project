@@ -82,6 +82,9 @@
 ```
 * Open Typesetting Stack --> para convertir doc a html & xml. Más data [acá](https://pkp.sfu.ca/open-typesetting-stack/)
 
+## PHP Error console log
+* check this Stackeroverflow [thread](https://stackoverflow.com/questions/5127838/where-does-php-store-the-error-log-php5-apache-fastcgi-cpanel)
+
 
 ## Legal ##
 

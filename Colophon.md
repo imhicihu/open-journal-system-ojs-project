@@ -11,6 +11,8 @@
      - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
+     - Virtual environment
+          - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
      - Dependencies & task runners
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)

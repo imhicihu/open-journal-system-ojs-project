@@ -15,6 +15,7 @@
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
      - Virtual environment
           - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
+          - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
      - Dependencies & task runners
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)

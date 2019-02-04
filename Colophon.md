@@ -5,26 +5,24 @@
      - Satechi Type-C Multiport Adapter (hub USB & Network access)
      - _Hosting_: Consorcio Saavedra 15
 * Software
-     - Local server environment on MacOSX
-          - [Mamp](https://www.mamp.info)
-          - [httpster](https://github.com/SimbCo/httpster)
-     - OJS
+       - Local server environment on MacOSX
+          * [Mamp](https://www.mamp.info)
+          * [httpster](https://github.com/SimbCo/httpster)
+       - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
-     - Word processor
+       - Word processor
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
-     - Virtual environment
+       - Virtual environment
           - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
           - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
-     - Dependencies & task runners
+       - Dependencies & task runners
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)
-     - Coding
+       - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
-            
-          ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
-          
+            ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
           - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
@@ -35,14 +33,14 @@
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
           - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
           - [Animate.js](https://github.com/juliangarnier/anime/): css animations
-     - Table HTML editor:
+       - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
-     - 3D digital asset creator
+       - 3D digital asset creator
           * [Blender](https://www.blender.org/): 3D creation & edition
-     - 3D render
+       - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
-     - Browser & Responsive Test
+       - Browser & Responsive Test
           - http://responsivedesignchecker.com/ (responsive tests)
           - http://deviceponsive.com/ (responsive tests)
           - [Browsersync](https://browsersync.io/)
@@ -51,32 +49,32 @@
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
-     - HTTPs:
+       - HTTPs:
           - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
-     - Fonts:
+       - Fonts:
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
-          - [Google Noto](https://www.google.com/get/noto/)
-          
-          ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)
-          
+          - [Google Noto](https://www.google.com/get/noto/)        
+          ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
-     - Bootstrap editors:
+       - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)
           * [Bootply](https://www.bootply.com/)
           * [Bootstrap.build](https://bootstrap.build/app)
-     - Accesibility tests:
+       - Accesibility tests:
           * [Web Accessibility Checklist](https://a11yproject.com/checklist)
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
-     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
-     - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
-     - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing
-     - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
-     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
-     - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
-     - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
+       - CSS
+          * [LESS.js](http://lesscss.org/)
+       - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
+       - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+       - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing
+       - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
+       - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+       - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
+       - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
 
 * Online tools
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)

@@ -6,8 +6,8 @@
      - _Hosting_: Consorcio Saavedra 15
 * Software
        - Local server environment on MacOSX
-          * [Mamp](https://www.mamp.info)
-          * [httpster](https://github.com/SimbCo/httpster)
+          - [Mamp](https://www.mamp.info)
+          - [httpster](https://github.com/SimbCo/httpster)
        - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
@@ -66,15 +66,16 @@
        - Accesibility tests:
           * [Web Accessibility Checklist](https://a11yproject.com/checklist)
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
-       - CSS
+       - CSS:
           * [LESS.js](http://lesscss.org/)
+       - Graphics:
+          * [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+          * Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
        - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
-       - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
        - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing
        - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
        - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
        - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
-       - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
 
 * Online tools
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
@@ -84,6 +85,7 @@
      - Icons:
           - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
           - [Favicon creator](https://favicon.io/): creation from a plethora of modes
+          - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties

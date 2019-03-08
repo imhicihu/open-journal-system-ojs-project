@@ -68,6 +68,8 @@
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
        - CSS:
           * [LESS.js](http://lesscss.org/)
+       - Link checker:
+          * [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
        - Graphics:
           * [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
           * Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`

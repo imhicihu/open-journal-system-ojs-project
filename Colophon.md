@@ -58,6 +58,8 @@
           - [Google Noto](https://www.google.com/get/noto/)        
           ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
+       - Installation/uninstallation of software:
+          - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
        - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)

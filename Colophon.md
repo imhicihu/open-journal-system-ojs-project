@@ -41,9 +41,10 @@
        - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
        - Browser & Responsive Test
-          - http://responsivedesignchecker.com/ (responsive tests)
-          - http://deviceponsive.com/ (responsive tests)
-          - [Browsersync](https://browsersync.io/)
+          - [crossbrowsertesting](https://crossbrowsertesting.com/): responsive tests
+          - [Responsivedesignchecker](http://responsivedesignchecker.com/) responsive tests
+          - [Deviceponsive](http://deviceponsive.com/): responsive tests
+          - [Browsersync](https://browsersync.io/): responsive tests
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
           - [Chris Pederick's web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari

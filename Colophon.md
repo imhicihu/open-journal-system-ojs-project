@@ -33,6 +33,8 @@
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
           - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
           - [Animate.js](https://github.com/juliangarnier/anime/): css animations
+       - Bibliographic searcher:
+          - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
        - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)

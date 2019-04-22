@@ -12,6 +12,7 @@
 * Pasar el test de íconos a través de los distintos dispositivos _et alia_. URL: https://realfavicongenerator.net/
 * ~~Chequear~~ / ~~generar archivo~~ [CNAME](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/ebb5ba07eed0078ac583cfd8e25170832d857228/CNAME?at=master&fileviewer=file-view-default) en el servidor (esta es la última instancia, una vez que esté todo listo para ir _online_). --> hecho
 * ~~agregar y configurar este [cron job](https://bitbucket.org/snippets/imhicihu/bed47L/ojs-cron-job)~~ --> hecho
+* crear cuenta (gratis) en https://cron-job.org/en/
 
 ## OJS
 * ~~actualizar a la última versión estable de OJS~~ --> hecho

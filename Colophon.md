@@ -54,6 +54,8 @@
                * Then go to `Develop` > `Enter Responsive Design Mode`
        - HTTPs:
           - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
+       - Font management:
+          - [FontBase](https://fontba.se/)
        - Fonts:
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 

@@ -67,4 +67,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the MIT license and some others licences can apply.
+* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg) and some others licences can apply.

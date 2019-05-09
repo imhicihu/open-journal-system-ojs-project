@@ -6,21 +6,23 @@
      - _Hosting_: Consorcio Saavedra 15
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
-       - Local server environment on MacOSX
+     - Local server environment on MacOSX
           - [Mamp](https://www.mamp.info)
           - [httpster](https://github.com/SimbCo/httpster)
-       - OJS
+     - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
-       - Word processor
+     - Word processor
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
-       - Virtual environment
+     - Virtual environment
           - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
           - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
-       - Dependencies & task runners
+     - Dependencies & task runners
           - [Gulp](https://gulpjs.com/)
           - [NPM](https://www.npmjs.com/)
-       - Coding
+     - GIT (workflow)
+          - [SourceTree](https://www.sourcetreeapp.com/): GIT client
+     - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
             ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
@@ -34,16 +36,16 @@
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
           - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
           - [Animate.js](https://github.com/juliangarnier/anime/): css animations
-       - Bibliographic searcher:
+    - Bibliographic searcher:
           - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
-       - Table HTML editor:
+    - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
-       - 3D digital asset creator
+    - 3D digital asset creator
           * [Blender](https://www.blender.org/): 3D creation & edition
-       - 3D render
+    - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
-       - Browser & Responsive Test
+    - Browser & Responsive Test
           - [crossbrowsertesting](https://crossbrowsertesting.com/): responsive tests
           - [Responsivedesignchecker](http://responsivedesignchecker.com/) responsive tests
           - [Deviceponsive](http://deviceponsive.com/): responsive tests
@@ -53,32 +55,32 @@
           - Apple Safari
                * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
-       - HTTPs:
+    - HTTPs:
           - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
-       - Font management:
+    - Font management:
           - [FontBase](https://fontba.se/)
-       - Fonts:
+    - Fonts:
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
           - [Google Noto](https://www.google.com/get/noto/)        
           ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
-       - Installation/uninstallation of software:
+    - Installation/uninstallation of software:
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
-       - Bootstrap editors:
+    - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)
           * [Bootply](https://www.bootply.com/)
           * [Bootstrap.build](https://bootstrap.build/app)
-       - Accesibility tests:
+    - Accesibility tests:
           * [Web Accessibility Checklist](https://a11yproject.com/checklist)
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
-       - CSS:
+    - CSS:
           * [LESS.js](http://lesscss.org/)
-       - Link checker:
+    - Link checker:
           * [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
-       - Graphics:
+    - Graphics:
           * [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
           * Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
        - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)

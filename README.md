@@ -1,5 +1,4 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg)
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg) ![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg)
 
 # RATIONALE #
 
@@ -52,6 +51,12 @@
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/commits/) section for the current status
+
+### Sitemap ###
+![OJS.jpg](https://bitbucket.org/repo/rpybXp8/images/2062653371-OJS.jpg)
+
+### Roadmap ###
+* _Vide_ [`tasks.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/tasks.md)
 
 ### Who do I talk to? ###
 

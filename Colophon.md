@@ -43,6 +43,8 @@
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
     - 3D digital asset creator
           * [Blender](https://www.blender.org/): 3D creation & edition
+    - Cron jobs
+          * [Visual Cron Editor](https://github.com/Marak/cron-editor):
     - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
     - Browser & Responsive Test

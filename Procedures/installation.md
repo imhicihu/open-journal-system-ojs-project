@@ -30,9 +30,11 @@
 0 * * * *	php /path/to/ojs/tools/runScheduledTasks.php
 ```
 
-* PHP Safe Mode is not a recommended configuration and may not function properly
+* check your `file_type_restriction.ini`
+![configini.png](https://bitbucket.org/repo/rpybXp8/images/3968091645-configini.png)
+* `PHP Safe Mode` is not a recommended configuration and may not function properly
 * Across time, it will be warned about updates. Apply accordingly
-* Check `docs` directory: there contains configuration, installation or upgrade questions
+* Check `docs` directory: there it contains configuration, installation or upgrade questions
 * To add support for other languages, the following sets of XML files must be localized and placed in an appropriately named directory (using ISO locale 
 codes, e.g. `fr_FR`, is recommended):
 	- `locale/en_US`
@@ -46,10 +48,27 @@ codes, e.g. `fr_FR`, is recommended):
 * We are ensuring that the OJS `config.inc.php` settings match the data and `db` settings
 * Clear it off comments your css file
 
+## Configuration
+* Browse to the `Settings` > `Websites` > `Plugins` > `Plugin Gallery` page in your Open Journal Systems website setup.
+* Enable this plugins:
+     * [Backup](https://github.com/asmecher/backup)
+     * [iThenticate](https://github.com/asmecher/plagiarism)
+     * [QuickSubmit](https://github.com/pkp/quickSubmit)
+     * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
+     * [Custom Header](https://github.com/asmecher/customHeader/)
+     * [backup](https://github.com/asmecher/backup)
+	 * Google Analytics
+	 * DOI
+     * [StaticPages](https://github.com/pkp/staticPages)
+     * [Shariff plugin](https://github.com/ojsde/shariff)
+     * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
+* Install a font (preferred) that support non-western glyphs and ligatures. More data can be found [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/typography/fonts.md)
+
+
 ## Maintenance
 * Verify your webserver error log
 * Verify your file permissions
 * Check your memory limit on your `PHP` settings. It’s normally set at `8mb` by default, but OJS need at least `16mb` set to run properly. You can find a `memory_limit` configuration directive in your server’s `php.ini` config file.
-
-
+* Check this [thread](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/Error_PHP_Console_log.md) about error logs
+* Follow this good practices about [backup](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/Backup.md)
 

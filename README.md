@@ -1,4 +1,5 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg) ![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg)
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg) ![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg) ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
 
 # RATIONALE #
 
@@ -34,7 +35,7 @@
 * Summary of set up
     - Vide [Colophon.md](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/bc926daaa58527e7792d1f1b3e2b39442486b78a/Colophon.md?at=master&fileviewer=file-view-default)
 * Configuration
-    - _In the making_
+    - Check our [installation](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/Procedures/installation.md) guide.
 * Dependencies
     - [Gulp](https://gulpjs.com/)
     - [NPM](https://www.npmjs.com/)

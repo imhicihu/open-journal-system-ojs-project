@@ -24,6 +24,12 @@
 * Verify your server API PHP. If OJS is already installed, log in as Site Administrator, click `System Information`, and at the bottom of the page, click `Extended PHP Information`. Find the line that says `Server API`. Depending on which API you are using (`mod_php/SAPI` or `CGI/FastCGI`), permissions should be set as follow: 
 	- mod_php/SAPI: In this configuration, all PHP scripts on the system typically execute as the same user (usually Apache’s “nobody” or “www-data” accounts). Be warned that this may be insecure on a shared host. The `files_dir` (configured in `config.inc.php`), the cache directory, the public directory, and all contents and subdirectories must be writable and readable by the web server user. The `config.inc.php` configuration file must be readable by the web server user
 	- CGI/FastCGI: PHP scripts will typically run under your user account (though server configurations may vary). This can be a well-secured configuration. The `files_dir` (configured in `config.inc.php`), the cache directory, the public directory, and all contents and subdirectories must be writable and readable by this user account. The `config.inc.php` configuration file must be readable by this account.
+* Schedule tasks (such as automatic sending of reminder notification emails): enable support for using scheduled tasks, edit your `config.inc.php` and set the `scheduled_tasks` setting to `On`. On Unix operating systems, this can be done by adding a simple cron task:
+
+```# crontab -e www
+0 * * * *	php /path/to/ojs/tools/runScheduledTasks.php
+```
+
 * PHP Safe Mode is not a recommended configuration and may not function properly
 * Across time, it will be warned about updates. Apply accordingly
 * Check `docs` directory: there contains configuration, installation or upgrade questions
@@ -35,9 +41,15 @@ codes, e.g. `fr_FR`, is recommended):
 	- `registry/locale/en_US`
 	- `plugins/[plugin category]/[plugin name]/locale`, where applicable
 * New locales must also be added to the file `registry/locales.xml`. Edit accordingly
-* Verify character encoding (preferred `utf-8` format). Run these command from the terminal
+* Verify character encoding (preferred `utf-8` format). In a way, we’re storing utf8 data in a utf8 database. Therefore, run these command from the terminal
 * ![code.png](https://bitbucket.org/repo/rpybXp8/images/3542055665-carbon.png)
-* clear it off comments your css file
-* 
+* We are ensuring that the OJS `config.inc.php` settings match the data and `db` settings
+* Clear it off comments your css file
+
+## Maintenance
+* Verify your webserver error log
+* Verify your file permissions
+* Check your memory limit on your `PHP` settings. It’s normally set at `8mb` by default, but OJS need at least `16mb` set to run properly. You can find a `memory_limit` configuration directive in your server’s `php.ini` config file.
+
 
 

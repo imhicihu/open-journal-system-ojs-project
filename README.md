@@ -1,4 +1,6 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg) ![openissues-wip](https://img.shields.io/badge/open%20issues-7-orange.svg) ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png) 
+![openissues-wip](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png) 
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 
 
 # RATIONALE #
@@ -64,7 +66,7 @@
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
@@ -73,4 +75,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg) and some others licences can apply.
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)

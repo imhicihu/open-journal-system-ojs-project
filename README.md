@@ -43,6 +43,12 @@
     - [NPM](https://www.npmjs.com/)
     - [Browsersync](https://browsersync.io/)
     
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Temas Medievales project](https://bitbucket.org/imhicihu/temas-medievales-project/src/)
+     - [Scopus Metadata](https://bitbucket.org/imhicihu/scopus-metadata/src/)
+    
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src)

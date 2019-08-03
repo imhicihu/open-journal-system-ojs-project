@@ -39,10 +39,10 @@
     - Bibliographic searcher:
           - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
     - Table HTML editor:
-          * [DIV Table](https://divtable.com/generator/)
-          * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+          - [DIV Table](https://divtable.com/generator/)
+          - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
     - 3D digital asset creator
-          * [Blender](https://www.blender.org/): 3D creation & edition
+          - [Blender](https://www.blender.org/): 3D creation & edition
     - Cron jobs
           * [Visual Cron Editor](https://github.com/Marak/cron-editor):
     - 3D render
@@ -77,6 +77,7 @@
           * [Bootstrap.build](https://bootstrap.build/app)
     - Accesibility tests:
           * [Web Accessibility Checklist](https://a11yproject.com/checklist)
+          - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
     - CSS:
           * [LESS.js](http://lesscss.org/)

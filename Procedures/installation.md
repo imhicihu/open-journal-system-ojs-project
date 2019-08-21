@@ -8,7 +8,7 @@
 * Operating system: 
 	- Any OS: Linux, BSD, Solaris, Mac OS X, Windows
 ## Installation
-* Download from Extract the OJS archive to the desired location in your web documents directory
+* Download from extract the OJS archive to the desired location in your web documents directory
 * Make the following files and directories (and their contents) writeable:
 	- `config.inc.php` (_optional_, if not writable you will be prompted to manually overwrite this file during installation)
 	- `public`

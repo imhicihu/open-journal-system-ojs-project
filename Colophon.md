@@ -11,7 +11,20 @@
           - [httpster](https://github.com/SimbCo/httpster)
      - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+     - OJS plugins
+          - [Backup](https://github.com/asmecher/backup)
+          - [iThenticate](https://github.com/asmecher/plagiarism)
+          - [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
+          - [Custom Header](https://github.com/asmecher/customHeader/)
+          - [backup](https://github.com/asmecher/backup)
+	      - Google Analytics
+     	  - DOI
+          - [StaticPages](https://github.com/pkp/staticPages)
+          - [Shariff plugin](https://github.com/ojsde/shariff)
+          - [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
+     - File allowance (inside MacOSX)
+          - [BatchMod](https://www.lagentesoft.com/batchmod/)
      - Word processor
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
      - Virtual environment
@@ -23,10 +36,9 @@
      - GIT (workflow)
           - [SourceTree](https://www.sourcetreeapp.com/): GIT client
      - Coding
-          - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
+          - ~~[Firebug](https://getfirebug.com/):~~ _deprecated_ by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
             ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
-          - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker

@@ -1,13 +1,14 @@
-* Browse to the `Settings` > `Websites` > `Plugins` > `Plugin Gallery` page in your Open Journal Systems website setup.
+* Browse to the `Settings` > `Websites` > `Plugins` > `Plugin Gallery` page in your Open Journal Systems website setup (offline or onlime mode).
 * Enable this plugins:
      * [Backup](https://github.com/asmecher/backup)
      * [iThenticate](https://github.com/asmecher/plagiarism)
      * [QuickSubmit](https://github.com/pkp/quickSubmit)
      * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
      * [Custom Header](https://github.com/asmecher/customHeader/)
-     * [backup](https://github.com/asmecher/backup)
-	 * Google Analytics
-	 * DOI
+     * [Custom Block Manager](https://github.com/pkp/customBlockManager)
+     * [Backup](https://github.com/asmecher/backup)
+	 * [Google Analytics](https://github.com/pkp/googleAnalytics)
+	 * [DOI](https://github.com/pkp/ojs/tree/master/plugins/pubIds/doi)
      * [StaticPages](https://github.com/pkp/staticPages)
      * [Shariff plugin](https://github.com/ojsde/shariff)
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)

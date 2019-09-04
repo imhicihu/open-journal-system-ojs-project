@@ -120,6 +120,7 @@
      - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - [Libraries.io](https://libraries.io/): searcher of open-source projects
+     - [Google Analytics (query explorer)](https://ga-dev-tools.appspot.com/query-explorer/)
      - Accesibility tests
           - [Wave](http://wave.webaim.org/)
           - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)

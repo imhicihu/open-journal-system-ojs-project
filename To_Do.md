@@ -13,6 +13,7 @@
 * ~~Chequear~~ / ~~generar archivo~~ [CNAME](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/ebb5ba07eed0078ac583cfd8e25170832d857228/CNAME?at=master&fileviewer=file-view-default) en el servidor (esta es la última instancia, una vez que esté todo listo para ir _online_). --> hecho
 * ~~agregar y configurar este [cron job](https://bitbucket.org/snippets/imhicihu/bed47L/ojs-cron-job)~~ --> hecho
 * crear cuenta (gratis) en https://cron-job.org/en/
+* chequear este _modus-operandi_: https://github.com/typicode/hotel
 
 ## OJS
 * ~~actualizar a la última versión estable de OJS~~ --> hecho
@@ -28,9 +29,9 @@
 * ~~translation of plugins~~ ---> Hecho
 
 ## OJS Analíticas
-* habilitar el plugin `Google Analytics Plugin`.
-* hay que relacionarlo con una cuenta de Gmail, ergo, hay que poseer una cuenta de Gmail. 
-* procedimiento para insertar el código de seguimiento de Google Analytics dentro del sitio y/o complemento (léase `plugin`) [acá](https://support.google.com/analytics/answer/1008080?hl=es)
+* ~~habilitar el plugin `Google Analytics Plugin`~~ ---> Hecho
+* ~~hay que relacionarlo con una cuenta de Gmail, ergo, hay que poseer una cuenta de Gmail~~ ---> Hecho 
+* ~~procedimiento para insertar el código de seguimiento de _Google Analytics_ dentro del sitio y/o complemento (léase `plugin`) [acá](https://support.google.com/analytics/answer/1008080?hl=es)~~ ---> Hecho
 
 ## OJS Tipografía
 * [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  

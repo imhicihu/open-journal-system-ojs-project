@@ -1,1 +1,1 @@
-* Plag patrol > (https://github.com/josemmo/plagpatrol)
+* ~~Plag patrol > (https://github.com/josemmo/plagpatrol)~~ out of scope of this project

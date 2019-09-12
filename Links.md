@@ -1,6 +1,7 @@
 ## Tutorials (links related)
 
 * [PKP School](https://pkpschool.sfu.ca/)
+* [OJS FAQ's](https://pkp.sfu.ca/wiki/index.php/PKP_Frequently_Asked_Questions)
 * [Configuración de una revista en OJS 3](https://pkpschool.sfu.ca/courses/configuracion-de-una-revista-en-ojs-3/)
 * ~~[OJS 3 gitbook](https://pkp.gitbook.io/ojs3/)~~
 * [Customizing OJS](https://pkp.sfu.ca/wiki/index.php/Customizing_OJS) --> moving to [Open Journal Systems 3 official documentation hub](https://docs.pkp.sfu.ca/)

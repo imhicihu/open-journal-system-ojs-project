@@ -3,6 +3,7 @@
      * [Backup](https://github.com/asmecher/backup)
      * [iThenticate](https://github.com/asmecher/plagiarism)
      * [QuickSubmit](https://github.com/pkp/quickSubmit)
+        - More data can be found [here](https://github.com/pkp/pkp-docs/blob/master/admin-guide/en/data-import-and-export.md#quick-submit-plugin)
      * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
      * [Custom Header](https://github.com/asmecher/customHeader/)
      * [Custom Block Manager](https://github.com/pkp/customBlockManager)

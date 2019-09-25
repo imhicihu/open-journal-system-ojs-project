@@ -26,7 +26,7 @@
 		- [ ] webfont: hosted by Google
 		- [ ] left to right / right to left (take in count for screen reader and font, kerning and spacing between parties)
 		- [ ] western / eastern idioms
-		- [ ] Google Noto: multi-idiom, ligatures, kerning, no bandwithd consume
+		- [ ] Google Noto: multi-idiom, ligatures, kerning, no bandwidth consume
 		- [ ] Font testing page: https://github.com/impallari/Font-Testing-Page/
 	- [-] Seguridad
 		- [ ] https & ssl certificates

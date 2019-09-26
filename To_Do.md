@@ -71,7 +71,7 @@
 * Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)
 * Generar estas páginas estáticas:
      - site map
-     - status pages
+     - status page
      - colophon page
      - cookie policy
      - 404 Page not found (_Página no encontrada_)
@@ -92,8 +92,7 @@
 
 ## Del.icio.us migration
 * ~~Migrate Del.icio.us gathered links to Evernote~~
-* Check this previous [thread](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/master/Procedure.md)
+* ~~Check this previous~~ [thread](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/master/Procedure.md)
 
 ## Legal ##
-
 * All trademarks are the property of their respective owners.

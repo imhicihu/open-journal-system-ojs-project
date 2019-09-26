@@ -48,6 +48,8 @@
           - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
           - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
           - [Animate.js](https://github.com/juliangarnier/anime/): css animations
+      - Terminal recorder
+          - [Asciinema](https://asciinema.org/)
     - Bibliographic searcher:
           - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
     - Table HTML editor:

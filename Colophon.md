@@ -101,7 +101,7 @@
           * [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
     - Graphics:
           * [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
-          * [Image Shrinke](https://github.com/stefansl/image-shrinker): minify images and graphics 
+          * [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 
           * Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
        - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
        - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing

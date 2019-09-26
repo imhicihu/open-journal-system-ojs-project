@@ -63,7 +63,7 @@
      - leyenda
      - Bibliografía
 * el archivo resultante, copiarlo o transferirlo a este repositorio: https://bitbucket.org/imhicihu/template-of-digital-publication/
-* chequear 
+* check this jquery --> [Page Scroll Indicator](https://github.com/alssndro/page-scroll-indicator)
 
 ## OJS Misceláneas
 * Generar mapa del sitio. 

@@ -27,6 +27,9 @@
           - [BatchMod](https://www.lagentesoft.com/batchmod/)
      - Word processor
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+     - Code editor
+          - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
+          - [Atom Editor](http://atom.io):
      - Virtual environment
           - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
           - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)

@@ -5,6 +5,9 @@
 * en el caso de grafías (latín, idiomas orientales, lenguas muertas) deben suministrarse los archivos: sea en formato truetype, open type, etc. 
 * asimismo, debe especificarse si es del tipo `right to left`, `up to down` (ej.: japanese)
 
+## Gráficos
+* chequear este servicio para reducir el tiempo de carga. Tienen un CDN propio. Chequear en esta URL: https://www.cloudimage.io/en/home
+
 ## Server
 * agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
 * agregar `.htaccess`. Más información puede encontrarse [aquí](https://hipertextual.com/archivo/2012/07/archivo-htaccess-apache/)

@@ -137,6 +137,8 @@
           - [Google Page test](https://developers.google.com/speed/)
           - [Pingdom](https://www.pingdom.com/product/page-speed/)
           - [HTTP vs HTTPS](https://www.httpvshttps.com/)
+     - Plugins (curated and discriminated by topics)
+          - [Awesome design plugins](https://flawlessapp.io/designplugins)
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)

@@ -4,4 +4,4 @@
 * https://docs.pkp.sfu.ca/pkp-theming-guide/en/theme-bootstrap3
 * https://docs.pkp.sfu.ca/pkp-theming-guide/en/template-variables
 * https://forum.pkp.sfu.ca/t/diseno-del-ojs-plantillas-diseno-didactico/28708/8
-* 
+* https://www.yukei.net/2008/11/tres-trucos-para-ojs/

@@ -63,7 +63,7 @@
     - Cron jobs
           * [Visual Cron Editor](https://github.com/Marak/cron-editor): cron editor
     - Testing (in a browser)
-          * [Cypress](https://www.cypress.io/): tester end-to-end, integrations
+          * [Cypress](https://www.cypress.io/): tester end-to-end integrations
     - 3D render
           * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
     - Browser & Responsive Test

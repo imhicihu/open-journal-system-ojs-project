@@ -126,6 +126,7 @@
      - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties
+     - [Word counter](https://wordcounttools.com/):
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - [Libraries.io](https://libraries.io/): searcher of open-source projects
      - [Google Analytics (query explorer)](https://ga-dev-tools.appspot.com/query-explorer/)

@@ -119,6 +119,7 @@
      - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
      - [Placeholder](https://placeholder.com/): image disposal
+     - [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
      - Icons:
           - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
           - [Favicon creator](https://favicon.io/): creation from a plethora of modes

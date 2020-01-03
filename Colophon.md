@@ -131,6 +131,7 @@
      - [Word counter](https://wordcounttools.com/):
      - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
      - [Libraries.io](https://libraries.io/): searcher of open-source projects
+     - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
      - [Google Analytics (query explorer)](https://ga-dev-tools.appspot.com/query-explorer/)
      - Accesibility tests
           - [Wave](http://wave.webaim.org/)

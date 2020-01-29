@@ -12,4 +12,5 @@
 	 * [DOI](https://github.com/pkp/ojs/tree/master/plugins/pubIds/doi)
      * [StaticPages](https://github.com/pkp/staticPages)
      * [Shariff plugin](https://github.com/ojsde/shariff)
+     * [Preservation network](https://pkp.sfu.ca/pkp-pn/): digital preservation 
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/) // check this repo: [ojs3-markup](https://github.com/kaschioudi/ojs3-markup)

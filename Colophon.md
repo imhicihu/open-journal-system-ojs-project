@@ -1,8 +1,8 @@
 ## Technical requeriments ##
 
 * Hardware
-     - Macbook 13 inches
-     - Satechi Type-C Multiport Adapter (hub USB & Network access)
+     - Macbook 13 inches (for our technological scenario)
+     - Satechi Type-C Multiport Adapter (hub USB & Network access) (for our technological scenario)
      - _Hosting_: Consorcio Saavedra 15
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
@@ -89,6 +89,8 @@
           - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
     - Installation/uninstallation of software:
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
+    - SEO Tools & metadata
+          - [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
     - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)

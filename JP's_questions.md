@@ -1,0 +1,68 @@
+* según [Nuevos criterios de Latindex junio 2018.pptx](https://bitbucket.org/imhicihu/temas-medievales-project/downloads/Nuevos_criterios_de_Latindex_junio_2018.pptx)
+    - en filmina #35: agregar `membrete bibliográfico xxxx`
+    - filmina 51 y 52: núcleo básico, ??
+    - filmina 54: ??
+    - filmina 57: ??
+    - filmina 59: ??
+    - filmina 60: ??
+    - filmina 62: `plagio`:
+        - https://github.com/architshukla/Plagiarism-Checker
+        - https://github.com/jatanrathod/Idea-Plagiarism
+        - https://github.com/josemmo/plagpatrol
+        - ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
+        - https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator  ~~(do not found a way to install, even in `localhost` mode) > there is some `.php` files...~~ Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
+        - ~~https://github.com/gitplag/moss-api  (docker image)~~
+        - https://github.com/frizensami/plagiarism-basic
+        - https://github.com/MandarGogate/Plaker  -> https://dev.mandargogate.com/plaker  -> installation: docker image and python script to run  
+        - https://github.com/TristanPerry/plagiarism-detection-software -> needs both python and django installations. And the author warns about some deprecated modules along the technical timeline
+        - [Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/): (via previous Evernote session from other macbook)
+        - [HelioBLAST](https://helioblast.heliotext.com/) -> submissions are limited to 1,000 words ∣ queries is against Medline/PubMed
+        - ~~https://github.com/codeclassroom/PlagCheck -> only for software code lines comparisons~~
+        - https://www.crossref.org/services/similarity-check/
+        - https://docs.pkp.sfu.ca/crossref-ojs-manual/en/simCheck  (plug-in for the OJS platform. Enable it!)
+        - http://plagiarisma.net/
+        - https://www.duplichecker.com/ (limnit of 1000 words limit per search)
+        - https://smallseotools.com/plagiarism-checker/
+        - https://www.grammarly.com/plagiarism-checker/
+        - https://www.plagiarismsoftware.net/
+        - https://plagiarismdetector.net/
+        - https://sourceforge.net/projects/antiplagiarismc/ -> (java based)
+        - http://www.dustball.com/cs/verificador.plagio/
+        - http://www.checktext.org/
+        - https://www.docoloc.de/
+        - http://www.plagium.com/
+        - https://www.paperrater.com/
+        - https://academicplagiarism.com/
+        - https://www.bibme.org/grammar-and-plagiarism/
+        - https://academichelp.net/check-paper-for-plagiarism/
+        - https://edubirdie.com/plagiarism-checker
+        - https://searchenginereports.net/plagiarism-checker
+        - https://paperleaf.ca/detecteur-de-plagiat/
+        - https://www.dmca.com/scan/default.aspx -> (2 free scans)
+        - https://www.copyscape.com/
+        - https://www.quetext.com/
+        - https://noplag.com/free-plagiarism-checker/
+        - https://plagiarismcheckerx.com/
+        - https://paraphrase.projecttopics.org/free-plagiarism-checker-turnitin-alternative-software
+        - https://plag.co/plagiarism-check.php
+        - R query about `R package plagiarism`-> https://www.reddit.com/r/rstats/comments/68nmbm/plagiarism_analysis_in_r/
+        - http://similar.rexamine.com/
+        - https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp
+        - https://www.plagiarism-checker.me/
+        - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
+        - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
+    - filmina 64: Procedimiento para el control de plagio
+    - filmina 78: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
+    - filmina 82: Metadatos & DublinCore: more data can be found [here](https://www.dublincore.org/specifications/dublin-core/dc-html/)
+        - check this [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php) via [Cromaidea post](https://www.cromaidea.com/blog/posicionamiento-seo-con-la-utlizacion-de-dublin-core-metadata.html)
+        - verificar que cada artículo esté descrito con metaetiquetas. Es obligatorio el uso de una norma de metaetiquetas
+    - filmina 83: metadatos de indexación (ejemplo)
+    - filmina 90: la revista debe incluir servicios agregados como RSS; multimedia (video, sonido); actualización constante (artículo por artículo); acceso a datos crudos (estadísticas y anexos); tener presencia en redes sociales de ámbito académico; facilidades para que personas con diferentes discapacidades puedan acceder al contenido de la revista, así como indicaciones sobre cómo citar los artículos, etc.
+    - filmina 105: OCLC -> https://www.oclc.org/en/membership/become-a-member.html
+    - filmina 110: software para windows y macosx [Publish or perish](https://harzing.com/resources/publish-or-perish)
+    - filmina 111: preservación digital 
+            - -> https://clockss.org/join-clockss/  
+            - Se debe detallar sus políticas de preservación
+            - [cómo saber si se está guardando nuestra revista en Lockss](https://forum.pkp.sfu.ca/t/como-saber-si-los-articulos-de-nuestra-revista-se-estan-guardando-en-lockss/47063)
+            - [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/): Technical warning: _PKP PN is available for users of OJS 2.4.8. It is not yet available for users of OJS 3.x._ Updates about the progress of a new release can be found [here](https://forum.pkp.sfu.ca/t/installation-of-pkp-pln-plugin-in-ojs-3-0-2/32728/9)
+* se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)

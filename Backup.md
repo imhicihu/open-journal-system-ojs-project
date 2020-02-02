@@ -1,8 +1,10 @@
 ## Cron jobs --> DONE
 * via Github OJS [Scheduled tasks](https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks) run this script:
-```# crontab -e www
-0 * * * *	php /path/to/ojs/tools/runScheduledTasks.php
-```
+   ```
+   # crontab -e www
+   0 * * * *	php /path/to/ojs/tools/runScheduledTasks.php
+   ```
+* cron job programmed via [Crontab Guru](https://crontab.guru/)
 
 ## Forum
 * [Back up of the site](https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2)

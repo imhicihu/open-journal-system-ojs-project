@@ -14,6 +14,9 @@
 * ~~[PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide/en/theme-api) {Theme API} (a kind of tutorial how to create themes for the platform OJS):~~ not running up to now :(
 * [Official documentation about themes inside OJS](https://github.com/pkp/pkp-docs/tree/master/pkp-theming-guide/en)
 
+## Index, sitemaps & Google Scholar
+* [Indexing journal system to Google Scholar](https://forum.pkp.sfu.ca/t/ojs-2-3-1-2-indexing-journal-system-to-google-scholar/32967)
+
 ## OJS API
 * https://pkp.sfu.ca/ojs/doxygen/master/html/index.html
 

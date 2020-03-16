@@ -97,5 +97,8 @@
 * ~~Migrate Del.icio.us gathered links to Evernote~~
 * ~~Check this previous~~ [thread](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/master/Procedure.md)
 
+## Security
+* [Domain privacy](https://www.namecheap.com/security/whoisguard/)
+
 ## Legal ##
 * All trademarks are the property of their respective owners.

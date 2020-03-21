@@ -118,6 +118,8 @@
        - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
 
 * Online tools
+     - Web-Fonts previewer
+        - [Fonty](https://fonty.dizoo.bg/)
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)

@@ -2,6 +2,7 @@
 * generar plantillas de estilos (`.dot` en Microsoft Word`) para generar uniformidad en el resultado final, sea en la versión pdf, xml y html.
 
 ## Tipografías
+* check http://kyleamathews.github.io/typography.js/
 * en el caso de grafías (latín, idiomas orientales, lenguas muertas) deben suministrarse los archivos: sea en formato truetype, open type, etc. 
 * asimismo, debe especificarse si es del tipo `right to left`, `up to down` (ej.: japanese)
 

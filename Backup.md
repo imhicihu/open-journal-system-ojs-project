@@ -9,6 +9,7 @@
 ## Forum
 * [Back up of the site](https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2)
 * [Backup Configuration](https://forum.pkp.sfu.ca/t/backup-configuration/23566)
+* [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
 * [Backup & upgrade (scalar)](https://github.com/pkp/ojs/blob/master/docs/UPGRADE.md)
 * [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
 * [[SOLVED] Where is the backup section of OJS 3.0.2](https://forum.pkp.sfu.ca/t/solved-where-is-the-backup-section-of-ojs-3-0-2/45567)

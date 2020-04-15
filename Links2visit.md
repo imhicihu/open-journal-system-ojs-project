@@ -7,3 +7,4 @@
 * https://forum.pkp.sfu.ca/t/diseno-del-ojs-plantillas-diseno-didactico/28708/8
 * https://www.yukei.net/2008/11/tres-trucos-para-ojs/
 * https://www.dropzonejs.com/   (drag and drop uploads)
+* https://yasumichi.github.io/seapig/ (SeaPig is converter from markdown to html with marked.js and highlight.js)

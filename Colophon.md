@@ -121,6 +121,7 @@
      - Web-Fonts previewer
         - [Fonty](https://fonty.dizoo.bg/)
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
+     - [Fonts Ninja](https://fonts.ninja/): online fonts inspector
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
      - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.

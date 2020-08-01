@@ -91,6 +91,7 @@
           - [FontGoogles](https://fontgoggles.org/): Interactive Previewing and Comparing fonts in a glimpse
     - Installation/uninstallation of software:
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
+          - [Chocolatey](https://chocolatey.org/): installation/uninstallation automated of Windows software
     - SEO Tools & metadata
           - [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
     - HTML to Epub

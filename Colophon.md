@@ -93,6 +93,8 @@
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
     - SEO Tools & metadata
           - [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
+    - HTML to Epub
+          - [Sigil](https://sigil-ebook.com/)
     - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Epic Bootstrap](https://epicbootstrap.com/)

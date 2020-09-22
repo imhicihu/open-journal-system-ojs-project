@@ -10,7 +10,7 @@
 * chequear este servicio para reducir el tiempo de carga. Tienen un CDN propio. Chequear en esta URL: https://www.cloudimage.io/en/home
 
 ## Server
-* agregar `robot.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
+* agregar `robots.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
 * agregar `.htaccess`. Más información puede encontrarse [aquí](https://hipertextual.com/archivo/2012/07/archivo-htaccess-apache/)
 * agregar `favicon.ico`.
 * Pasar el test de íconos a través de los distintos dispositivos _et alia_. URL: https://realfavicongenerator.net/

@@ -74,7 +74,7 @@
           - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
           - [Chris Pederick's web developer](https://chrispederick.com/work/web-developer/)
           - Apple Safari
-               * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in the menu bar`
+               * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in menu bar`
                * Then go to `Develop` > `Enter Responsive Design Mode`
     - HTTPs:
           - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates

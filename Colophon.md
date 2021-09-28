@@ -9,6 +9,7 @@
      - Local server environment on MacOSX
           - [Mamp](https://www.mamp.info)
           - [httpster](https://github.com/SimbCo/httpster)
+          - ~~[httpslocalhost](https://httpslocalhost.vercel.app/)~~
      - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      - OJS plugins

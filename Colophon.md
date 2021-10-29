@@ -122,6 +122,7 @@
        - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
 
 * Online tools
+     - [StyleGuide](https://hugeinc.github.io/styleguide/index.html): styles across site deployment
      - Web-Fonts previewer
         - [Fonty](https://fonty.dizoo.bg/)
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)

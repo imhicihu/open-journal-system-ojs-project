@@ -9,3 +9,4 @@
 * https://www.yukei.net/2008/11/tres-trucos-para-ojs/
 * https://www.dropzonejs.com/   (drag and drop uploads)
 * https://yasumichi.github.io/seapig/ (SeaPig is converter from markdown to html with marked.js and highlight.js)
+* [Style guides](https://hugeinc.github.io/styleguide/index.html): automatize deployment of documents with a focus on typography, styles and colors 

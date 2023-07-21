@@ -1,11 +1,11 @@
 ## Plagiarism tools
 |Name - URL  | Data |
 |:---------------|:---------------|
-|[Plag patrol](https://github.com/josemmo/plagpatrol) |  |
-|https://github.com/architshukla/Plagiarism-Checker | |
-|https://github.com/jatanrathod/Idea-Plagiarism | |
-|https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator | ~~do not found a way to install, even in `localhost` mode~~ > there is some `.php` files... Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.|
-|https://github.com/gitplag/moss-api | it is a docker image, so need a `virtualenv` procedure to run. At this moment, awkward|
+|[Plag patrol](https://github.com/josemmo/plagpatrol) | ![animation.gif](images/3092326125-demo.gif) |
+|[Plagiarism checker](https://github.com/architshukla/Plagiarism-Checker) | |
+|[Idea plagiarism](https://github.com/jatanrathod/Idea-Plagiarism) | |
+|[Plagiarized-Corpus-Generator](https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator) | ~~do not found a way to install, even in `localhost` mode~~ > there is some `.php` files... Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.|
+|[Moss-API](https://github.com/gitplag/moss-api) | it is a docker image, so need a `virtualenv` procedure to run. At this moment, awkward|
 | [Plagiarism basic](https://github.com/frizensami/plagiarism-basic) | |
 |[Plaker](https://github.com/MandarGogate/Plaker)  | |
 | [Plaker docker image](https://dev.mandargogate.com/plaker)  | installation: docker image and python script to run |
@@ -13,17 +13,17 @@
 |[Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/) | needs registration for the API use. There is some restrictions (limits on the queries)|
 |[HelioBLAST](https://helioblast.heliotext.com/)  | submissions are limited to 1,000 words plus queries is against Medline/PubMed |
 |~~https://github.com/codeclassroom/PlagCheck~~  | only for software code lines comparisons |
-|https://www.crossref.org/services/similarity-check/  | |
-|https://docs.pkp.sfu.ca/crossref-ojs-manual/en/simCheck   | plug-in for the OJS platform. `Enable it!` |
-| http://plagiarisma.net/  | |
-| https://www.duplichecker.com/ | (limit of 1000 words limit per search)|
-| https://smallseotools.com/plagiarism-checker/ |
-| https://www.grammarly.com/plagiarism-checker/ |
-| https://www.plagiarismsoftware.net/ |
-| https://plagiarismdetector.net/ |
+|[Similarity check](https://www.crossref.org/services/similarity-check)/  | |
+|[simCheck](https://docs.pkp.sfu.ca/crossref-ojs-manual/en/simCheck)   | plug-in for the OJS platform. `Enable it!` |
+| [Plagiarisma](http://plagiarisma.net/)  | |
+| [Duplichecker](https://www.duplichecker.com/) | (limit of 1000 words limit per search)|
+| [Plagiarism checker](https://smallseotools.com/plagiarism-checker/) |
+| [Plagiarism checker by grammarly](https://www.grammarly.com/plagiarism-checker/) | |
+| https://www.plagiarismsoftware.net/ | |
+| https://plagiarismdetector.net/ | |
 | https://sourceforge.net/projects/antiplagiarismc/ | (java based) |
-| http://www.dustball.com/cs/verificador.plagio/ | |
-| http://www.checktext.org/ | |
+| [Verificador plagio](http://www.dustball.com/cs/verificador.plagio/) | |
+| [checktext](http://www.checktext.org/) | |
 | https://www.docoloc.de/ | |
 | http://www.plagium.com/ | |
 | https://www.paperrater.com/ | |
@@ -46,5 +46,3 @@
 | https://www.plagiarism-checker.me/ | |
 | [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/) | | 
 | Plagiarism Detection Software [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/) | |
-
-~~https://github.com/josemmo/plagpatrol~~ | ![animation.gif](images/3092326125-demo.gif)

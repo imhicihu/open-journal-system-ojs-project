@@ -54,8 +54,6 @@
           - [Animate.js](https://github.com/juliangarnier/anime/): css animations
       - Terminal recorder
           - [Asciinema](https://asciinema.org/)
-    - Bibliographic searcher:
-          - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
     - Table HTML editor:
           - [DIV Table](https://divtable.com/generator/)
           - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
@@ -102,9 +100,9 @@
           * [Epic Bootstrap](https://epicbootstrap.com/)
           * [Bootply](https://www.bootply.com/)
           * [Bootstrap.build](https://bootstrap.build/app)
-    - Accesibility tests:
+    - Accessibility tests:
           * [Web Accessibility Checklist](https://a11yproject.com/checklist)
-          - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
+          - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accessibility
           * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
     - CSS:
           * [LESS.js](http://lesscss.org/)

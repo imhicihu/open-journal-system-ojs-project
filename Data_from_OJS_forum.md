@@ -1,6 +1,6 @@
 ## Import & export
 * [Importing and Exporting Data](https://pkp.sfu.ca/wiki/index.php/Importing_and_Exporting_Data)
-* [Quick Submit Plugin](Quick Submit Plugin)
+* Quick Submit Plugin
 	- [Troubleshoot tips and workarounds](https://forum.pkp.sfu.ca/t/ojs-3-0-1-and-quick-submit-plugin/28673/11)
 ## XML
 * [XML plugin](https://pkp.sfu.ca/wiki/index.php/Importing_and_Exporting_Data#Users_XML_Plugin)

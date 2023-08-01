@@ -94,10 +94,6 @@
 ## PHP Error console log
 * check this Stackeroverflow [thread](https://stackoverflow.com/questions/5127838/where-does-php-store-the-error-log-php5-apache-fastcgi-cpanel)
 
-## Del.icio.us migration
-* ~~Migrate Del.icio.us gathered links to Evernote~~
-* ~~Check this previous~~ [thread](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/master/Procedure.md)
-
 ## Security
 * [Domain privacy](https://www.namecheap.com/security/whoisguard/)
 

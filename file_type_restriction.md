@@ -1,4 +1,4 @@
-```
+
 if (move_uploaded_file($_FILES[$fileName]['tmp_name'], $destFileName)){    
 				
     			$allowed 	=   array('gif','png' ,'jpg', 'pdf', 'doc', 'docx'); // Type Extension
@@ -11,4 +11,3 @@ if (move_uploaded_file($_FILES[$fileName]['tmp_name'], $destFileName)){
     				return $this->setMode($destFileName, FILE_MODE_MASK);    				
     			}   		    			
 }
-```

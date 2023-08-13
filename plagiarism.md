@@ -1,4 +1,4 @@
-## Plagiarism tools
+### Plagiarism tools
 |Name - URL  | Data |
 |:---------------|:---------------|
 |[Plag patrol](https://github.com/josemmo/plagpatrol) | ![animation.gif](images/3092326125-demo.gif) |

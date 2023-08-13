@@ -1,15 +1,15 @@
-## Plantillas (templates)
+### Plantillas
 * generar plantillas de estilos (`.dot` en Microsoft Word`) para generar uniformidad en el resultado final, sea en la versión pdf, xml y html.
 
-## Tipografías
+### Tipografías
 * check http://kyleamathews.github.io/typography.js/
 * en el caso de grafías (latín, idiomas orientales, lenguas muertas) deben suministrarse los archivos: sea en formato truetype, open type, etc. 
 * asimismo, debe especificarse si es del tipo `right to left`, `up to down` (ej.: japanese)
 
-## Gráficos
+### Gráficos
 * chequear este servicio para reducir el tiempo de carga. Tienen un CDN propio. Chequear en esta URL: https://www.cloudimage.io/en/home
 
-## Server
+### Server
 * agregar `robots.txt`. Más información [acá](https://yoast.com/ultimate-guide-robots-txt/#robots-txt-location). Agregar [este archivo ya creado](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/892c4d1e94a9a0d526aa031baac512c7650baffe/robot.txt?at=master).
 * agregar `.htaccess`. Más información puede encontrarse [aquí](https://hipertextual.com/archivo/2012/07/archivo-htaccess-apache/)
 * agregar `favicon.ico`.
@@ -19,31 +19,31 @@
 * crear cuenta (gratis) en https://cron-job.org/en/
 * chequear este _modus-operandi_: https://github.com/typicode/hotel
 
-## OJS
+### OJS
 * ~~actualizar a la última versión estable de OJS~~ --> hecho
 * Cómo saber que versión tenemos instalada. Consultar este [snippet](https://bitbucket.org/snippets/imhicihu/6eggK8/verify-with-version-is-installed-on-my)
 * Generar _checklist_ que muestre el flujo de trabajo: envío, corrección, publicación de los _papers_. Más información [acá](https://pkp.sfu.ca/wiki/index.php?title=OJS_Workflow:_Stages)
 
-## OJS Backup
+### OJS Backup
 * ~~Backup (no hay plugin para la última versión, por ende, hay que hacerlo de manera manual, via FTP o Panel de control)~~
 * Más información recabada, ver [`backup.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/eb57ad32778c727442dbf0b3628681697273e36a/Backup.md?at=master&fileviewer=file-view-default)
 
-## OJS Plugins
+### OJS Plugins
 * ~~discriminar los _plugins_ a instalar~~  ---> Hecho ----> Ver [`plugins.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/17e63fd547d1a2a6bdbac5cfe35cbe4508f15013/Plugins.md?at=master&fileviewer=file-view-default)
 * ~~translation of plugins~~ ---> Hecho
 
-## OJS Analíticas
+### OJS Analíticas
 * ~~habilitar el plugin `Google Analytics Plugin`~~ ---> Hecho
 * ~~hay que relacionarlo con una cuenta de Gmail, ergo, hay que poseer una cuenta de Gmail~~ ---> Hecho 
 * ~~procedimiento para insertar el código de seguimiento de _Google Analytics_ dentro del sitio y/o complemento (léase `plugin`) [acá](https://support.google.com/analytics/answer/1008080?hl=es)~~ ---> Hecho
 
-## OJS Tipografía
+### OJS Tipografía
 * [Webfonts Beginner´s guide](https://design.google/library/choosing-web-fonts-beginners-guide/)  
 * enfocarse en el `HTML Markup` y en el esquema `xlm`
 ![glyphs.png](https://bitbucket.org/repo/rpybXp8/images/3991009943-glyphs.png)
 * [Font Testing Page](https://github.com/impallari/Font-Testing-Page/): tests de tipografías en pantalla (kerning, interlineado, etc.)
 
-## OJS Seguridad
+### OJS Seguridad
 * restringir qué tipo de documento puede subirse (léase `.doc`, `.docx`, `.rtf`)
 * asociar una cuenta de Gmail para después habilitar `Recaptcha`. Aquí está el [procedimiento](https://www.google.com/recaptcha/admin?hl=es#list) a seguir. **Crucial para evitar spam**
 * Restricción en qué tipo de archivos se pueden subir ---> ver [acá](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/6fdb683c746db6179f7cce22e45c74316ab5d737/file_type_restriction.md?at=master&fileviewer=file-view-default).   Solución: habilitar el plugin [`Allowed uploads`](https://github.com/ajnyga/allowedUploads)
@@ -53,11 +53,11 @@
      - [Montastic](http://montastic.com/)
      - [BasicState](http://basicstate.com/)
 
-## OJS Legales
+### OJS Legales
 * ~~Cookies (Política de cookies). (creación de alerta acerca de las cookies de acuerdo a la legislación de cada país. Ir [aquí](https://cookieconsent.insites.com/download/) para generar el archivo de javascript~~ --> Hecho. Más info [aquí](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/issues/6/workflow-texto-de-las-cookies)
 * Política de privacidad (creación del texto legal de acuerdo a nuestro país y de acuerdo a cada país). Ver [`Privacidad.md`](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/d984b71e541d43893651dacec2ca34eb1ea44e41/Privacidad.md?at=master&fileviewer=file-view-default) a modo de ejemplo
 
-## OJS Plantilla
+### OJS Plantilla
 * intimamente relacionado con la generación/conversión automática a formatos `XML` & `html`
 * crear plantilla (ej: `.dot` para archivos de Microsoft Word®) conteniendo:
      - título
@@ -69,7 +69,7 @@
 * el archivo resultante, copiarlo o transferirlo a este repositorio: https://bitbucket.org/imhicihu/template-of-digital-publication/
 * check this jquery --> [Page Scroll Indicator](https://github.com/alssndro/page-scroll-indicator)
 
-## OJS Misceláneas
+### OJS Misceláneas
 * Generar mapa del sitio. 
 * ~~Primera condición: definir la dirección de internet definitiva (URL)~~ ---> Hecho ∫ Check this commit: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/commits/3dd51705c328b21cfec59dab14709a00610242ce
 * Después seguir estos [pasos](https://github.com/pkp/ojs/blob/master/docs/README-SITEMAP)
@@ -91,11 +91,11 @@
 ```
 * Open Typesetting Stack --> para convertir doc a html & xml. Más data [acá](https://pkp.sfu.ca/open-typesetting-stack/)
 
-## PHP Error console log
+### PHP Error console log
 * check this Stackeroverflow [thread](https://stackoverflow.com/questions/5127838/where-does-php-store-the-error-log-php5-apache-fastcgi-cpanel)
 
-## Security
+### Security
 * [Domain privacy](https://www.namecheap.com/security/whoisguard/)
 
-## Legal ##
+### Legal
 * All trademarks are the property of their respective owners.

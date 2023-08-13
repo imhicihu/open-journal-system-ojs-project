@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements 
 
 * Hardware
      - Macbook 13 inches (for our technological scenario)
@@ -42,7 +42,8 @@
      - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ _deprecated_ by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
-            ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
+          <BR></BR>
+![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
@@ -83,9 +84,10 @@
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
-          - [Google Noto](https://www.google.com/get/noto/)        
-          ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
-          - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
+          - [Google Noto](https://www.google.com/get/noto/)
+            <BR></BR>
+            ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
+            - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
     - Font previewer
           - [FontGoogles](https://fontgoggles.org/): Interactive Previewing and Comparing fonts in a glimpse
     - Installation/uninstallation of software:
@@ -158,6 +160,6 @@
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.

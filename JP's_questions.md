@@ -9,7 +9,8 @@
         - https://github.com/architshukla/Plagiarism-Checker
         - https://github.com/jatanrathod/Idea-Plagiarism
         - https://github.com/josemmo/plagpatrol
-        - ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
+      <BR><BR/>
+      ![animation.gif](images/3092326125-demo.gif)
         - https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator  ~~(do not found a way to install, even in `localhost` mode) > there is some `.php` files...~~ Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
         - ~~https://github.com/gitplag/moss-api  (docker image)~~
         - https://github.com/frizensami/plagiarism-basic

@@ -20,7 +20,7 @@
   - [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
   - [Custom Header](https://github.com/asmecher/customHeader/)
   - [backup](https://github.com/asmecher/backup)
-	- Google Analytics
+  - Google Analytics
   - DOI
   - [StaticPages](https://github.com/pkp/staticPages)
   - [Shariff plugin](https://github.com/ojsde/shariff)

@@ -5,69 +5,69 @@
   - Satechi Type-C Multiport Adapter (hub USB & Network access) (for our technological scenario)
   - _Hosting_: Consorcio Saavedra 15
   - _Bandwidth_: Consorcio Saavedra 15
+
 #### Software
 
-     - Local server environment on MacOSX
-          - [Mamp](https://www.mamp.info)
-          - [httpster](https://github.com/SimbCo/httpster)
-          - ~~[httpslocalhost](https://httpslocalhost.vercel.app/)~~
-     - OJS
-          - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
-     - OJS plugins
-          - [Backup](https://github.com/asmecher/backup)
-          - [iThenticate](https://github.com/asmecher/plagiarism)
-          - [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
-          - [Custom Header](https://github.com/asmecher/customHeader/)
-          - [backup](https://github.com/asmecher/backup)
-	      - Google Analytics
-     	  - DOI
-          - [StaticPages](https://github.com/pkp/staticPages)
-          - [Shariff plugin](https://github.com/ojsde/shariff)
-          - [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
-          - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
-     - File allowance (inside MacOSX)
-          - [BatchMod](https://www.lagentesoft.com/batchmod/)
-     - Word processor
-          - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
-     - Code editor
-          - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
-          - [Atom Editor](http://atom.io):
-     - Virtual environment
-          - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
-          - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
-     - Dependencies & task runners
-          - [Gulp](https://gulpjs.com/)
-          - [NPM](https://www.npmjs.com/)
-     - GIT (workflow)
-          - [SourceTree](https://www.sourcetreeapp.com/): GIT client
-     - Coding
-          - ~~[Firebug](https://getfirebug.com/):~~ _deprecated_ by Mozilla (html, javascript & css editor on browser add-on)
-          - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
+- Local server environment on MacOSX
+  - [Mamp](https://www.mamp.info)
+  - [httpster](https://github.com/SimbCo/httpster)
+  - ~~[httpslocalhost](https://httpslocalhost.vercel.app/)~~
+- OJS
+  - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+- OJS plugins
+  - [Backup](https://github.com/asmecher/backup)
+  - [iThenticate](https://github.com/asmecher/plagiarism)
+  - [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
+  - [Custom Header](https://github.com/asmecher/customHeader/)
+    - [backup](https://github.com/asmecher/backup)
+	  - Google Analytics
+    - DOI
+    - [StaticPages](https://github.com/pkp/staticPages)
+    - [Shariff plugin](https://github.com/ojsde/shariff)
+    - [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
+    - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
+- File allowance (inside MacOSX)
+  - [BatchMod](https://www.lagentesoft.com/batchmod/)
+- Word processor
+  - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+- Code editor
+  - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
+  - [Atom Editor](http://atom.io):
+- Virtual environment
+  - [Vagrant environment for OJS](https://github.com/pkp/vagrant): a kind of virtual machine to proof plugins and templates
+  - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
+- Dependencies & task runners
+  - [Gulp](https://gulpjs.com/)
+  - [NPM](https://www.npmjs.com/)
+- GIT (workflow)
+  - [SourceTree](https://www.sourcetreeapp.com/): GIT client
+- Coding
+  - ~~[Firebug](https://getfirebug.com/):~~ _deprecated_ by Mozilla (html, javascript & css editor on browser add-on)
+  - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
           <BR></BR>
 ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
-
-          - [Atom](https://atom.io): (code editor)
-          - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-          - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
-          - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
-          - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
-          - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
-          - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
-          - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
-          - [Animate.js](https://github.com/juliangarnier/anime/): css animations
-      - Terminal recorder
-          - [Asciinema](https://asciinema.org/)
-    - Table HTML editor:
-          - [DIV Table](https://divtable.com/generator/)
-          - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
-    - 3D digital asset creator
-          - [Blender](https://www.blender.org/): 3D creation & edition
-    - Cron jobs
-          * [Visual Cron Editor](https://github.com/Marak/cron-editor): cron editor
-    - Testing (in a browser)
-          * [Cypress](https://www.cypress.io/): tester end-to-end integrations
-    - 3D render
-          * [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
+  - [Atom](https://atom.io): (code editor)
+  - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+  - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
+  - [EditorConfig](https://editorconfig.org/#download): consistent coding styles between different editors and IDEs
+  - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
+  - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
+  - [BlindText Generator snippets](http://www.blindtextgenerator.com/snippets)
+  - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
+  - [Animate.js](https://github.com/juliangarnier/anime/): css animations
+- Terminal recorder
+  - [Asciinema](https://asciinema.org/)
+- Table HTML editor:
+  - [DIV Table](https://divtable.com/generator/)
+  - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+- 3D digital asset creator
+  - [Blender](https://www.blender.org/): 3D creation & edition
+- Cron jobs
+  - [Visual Cron Editor](https://github.com/Marak/cron-editor): cron editor
+- Testing (in a browser)
+  - [Cypress](https://www.cypress.io/): tester end-to-end integrations
+- 3D render
+  - [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
     - Browser & Responsive Test
           - [crossbrowsertesting](https://crossbrowsertesting.com/): responsive tests
           - [Responsivedesignchecker](http://responsivedesignchecker.com/) responsive tests
@@ -160,7 +160,7 @@
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
 
 #### Documentation
-     - [Developer certificate](https://developercertificate.org/)
+  - [Developer certificate](https://developercertificate.org/)
      
 ### Legal
 

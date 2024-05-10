@@ -19,13 +19,13 @@
   - [iThenticate](https://github.com/asmecher/plagiarism)
   - [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
   - [Custom Header](https://github.com/asmecher/customHeader/)
-    - [backup](https://github.com/asmecher/backup)
-	  - Google Analytics
-    - DOI
-    - [StaticPages](https://github.com/pkp/staticPages)
-    - [Shariff plugin](https://github.com/ojsde/shariff)
-    - [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
-    - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
+  - [backup](https://github.com/asmecher/backup)
+	- Google Analytics
+  - DOI
+  - [StaticPages](https://github.com/pkp/staticPages)
+  - [Shariff plugin](https://github.com/ojsde/shariff)
+  - [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
+  - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
 - File allowance (inside MacOSX)
   - [BatchMod](https://www.lagentesoft.com/batchmod/)
 - Word processor
@@ -44,7 +44,7 @@
 - Coding
   - ~~[Firebug](https://getfirebug.com/):~~ _deprecated_ by Mozilla (html, javascript & css editor on browser add-on)
   - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
-          <BR></BR>
+  <BR></BR>
 ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
   - [Atom](https://atom.io): (code editor)
   - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
@@ -68,60 +68,60 @@
   - [Cypress](https://www.cypress.io/): tester end-to-end integrations
 - 3D render
   - [Blender Cycles](https://www.cycles-renderer.org/): 3D rendering of virtual objects
-    - Browser & Responsive Test
-          - [crossbrowsertesting](https://crossbrowsertesting.com/): responsive tests
-          - [Responsivedesignchecker](http://responsivedesignchecker.com/) responsive tests
-          - [Deviceponsive](http://deviceponsive.com/): responsive tests
-          - [Browsersync](https://browsersync.io/): responsive tests
-          - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
-          - [Chris Pederick's web developer](https://chrispederick.com/work/web-developer/)
-          - Apple Safari
-               * Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in menu bar`
-               * Then go to `Develop` > `Enter Responsive Design Mode`
-    - HTTPs:
-          - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
-    - Font management:
-          - [FontBase](https://fontba.se/)
-    - Fonts:
-          - [Google Fonts](https://fonts.google.com/)
-          - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
-          - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
-          - [Google Noto](https://www.google.com/get/noto/)
-            <BR></BR>
-            ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
-            - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
-    - Font previewer
-          - [FontGoogles](https://fontgoggles.org/): Interactive Previewing and Comparing fonts in a glimpse
-    - Installation/uninstallation of software:
-          - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
-          - [Chocolatey](https://chocolatey.org/): installation/uninstallation automated of Windows software
-    - SEO Tools & metadata
-          - [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
-    - HTML to Epub
-          - [Sigil](https://sigil-ebook.com/)
-    - Bootstrap editors:
-          * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
-          * [Epic Bootstrap](https://epicbootstrap.com/)
-          * [Bootply](https://www.bootply.com/)
-          * [Bootstrap.build](https://bootstrap.build/app)
-    - Accessibility tests:
-          * [Web Accessibility Checklist](https://a11yproject.com/checklist)
-          - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accessibility
-          * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
-    - CSS:
-          * [LESS.js](http://lesscss.org/)
-    - Link checker:
-          * [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
-    - Graphics:
-          * [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
-          * [DPI Love](http://dpi.lv/):  finds the DPI/PPI of any screen
-          * [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 
-          * Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
-       - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
-       - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing
-       - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
-       - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
-       - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
+- Browser & Responsive Test
+  - [crossbrowsertesting](https://crossbrowsertesting.com/): responsive tests
+  - [Responsivedesignchecker](http://responsivedesignchecker.com/) responsive tests
+  - [Deviceponsive](http://deviceponsive.com/): responsive tests
+  - [Browsersync](https://browsersync.io/): responsive tests
+  - [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
+  - [Chris Pederick's web developer](https://chrispederick.com/work/web-developer/)
+  - Apple Safari
+      - Go to `Safari` > `Preferences` > `Advanced` > Enable `Show Develop Menu in menu bar`
+      - Then go to `Develop` > `Enter Responsive Design Mode`
+- HTTPs:
+  - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
+- Font management:
+  - [FontBase](https://fontba.se/)
+- Fonts:
+  - [Google Fonts](https://fonts.google.com/)
+  - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
+  - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
+  - [Google Noto](https://www.google.com/get/noto/)
+    <BR></BR>
+    ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
+    - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
+  - Font previewer
+    - [FontGoogles](https://fontgoggles.org/): Interactive Previewing and Comparing fonts in a glimpse
+  - Installation/uninstallation of software:
+    - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
+    - [Chocolatey](https://chocolatey.org/): installation/uninstallation automated of Windows software
+  - SEO Tools & metadata
+    - [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
+  - HTML to Epub
+    - [Sigil](https://sigil-ebook.com/)
+  - Bootstrap editors:
+    - [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
+    - [Epic Bootstrap](https://epicbootstrap.com/)
+    - [Bootply](https://www.bootply.com/)
+    - [Bootstrap.build](https://bootstrap.build/app)
+  - Accessibility tests:
+    - [Web Accessibility Checklist](https://a11yproject.com/checklist)
+    - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accessibility
+    - [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection): a kind of internal auditor inside Mozilla Firefox.
+  - CSS:
+    - [LESS.js](http://lesscss.org/)
+  - Link checker:
+    - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
+  - Graphics:
+    - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+    - [DPI Love](http://dpi.lv/):  finds the DPI/PPI of any screen
+    - [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 
+    - Designer rule (aka `screen ruler`): `Google Chrome extension` > `chrome-extension://mlbnpnlmfngmlcmkhjpbfokdphfehhjj/update.html`
+    - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
+    - [Grunt.js](https://gruntjs.com/): automatization of javascript workload. Check the `less` plugins for css processing
+    - [Keycastr](https://github.com/keycastr/keycastr): keystroke visualizer
+    - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+    - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
 
 #### Online tools
   - [StyleGuide](https://hugeinc.github.io/styleguide/index.html): styles across site deployment

@@ -1,11 +1,12 @@
-## Technical requirements 
+### Technical requirements 
 
-* Hardware
-     - Macbook 13 inches (for our technological scenario)
-     - Satechi Type-C Multiport Adapter (hub USB & Network access) (for our technological scenario)
-     - _Hosting_: Consorcio Saavedra 15
-     - _Bandwidth_: Consorcio Saavedra 15
-* Software
+#### Hardware
+  - Macbook 13 inches (for our technological scenario)
+  - Satechi Type-C Multiport Adapter (hub USB & Network access) (for our technological scenario)
+  - _Hosting_: Consorcio Saavedra 15
+  - _Bandwidth_: Consorcio Saavedra 15
+#### Software
+
      - Local server environment on MacOSX
           - [Mamp](https://www.mamp.info)
           - [httpster](https://github.com/SimbCo/httpster)
@@ -44,6 +45,7 @@
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
           <BR></BR>
 ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
+
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
@@ -121,8 +123,8 @@
        - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
        - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
 
-* Online tools
-     - [StyleGuide](https://hugeinc.github.io/styleguide/index.html): styles across site deployment
+#### Online tools
+  - [StyleGuide](https://hugeinc.github.io/styleguide/index.html): styles across site deployment
      - Web-Fonts previewer
         - [Fonty](https://fonty.dizoo.bg/)
      - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
@@ -157,7 +159,7 @@
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
 
-* Documentation
+#### Documentation
      - [Developer certificate](https://developercertificate.org/)
      
 ### Legal

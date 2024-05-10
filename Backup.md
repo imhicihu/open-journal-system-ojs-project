@@ -1,4 +1,4 @@
-## Cron jobs --> DONE
+#### Cron jobs
 * via Github OJS [Scheduled tasks](https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks) run this script:
    ```
    # crontab -e www
@@ -6,7 +6,7 @@
    ```
 * cron job programmed via [Crontab Guru](https://crontab.guru/)
 
-## Forum
+#### Forum
 * [Back up of the site](https://forum.pkp.sfu.ca/t/back-up-of-the-site/37657/2)
 * [Backup Configuration](https://forum.pkp.sfu.ca/t/backup-configuration/23566)
 * [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
@@ -15,10 +15,10 @@
 * [[SOLVED] Where is the backup section of OJS 3.0.2](https://forum.pkp.sfu.ca/t/solved-where-is-the-backup-section-of-ojs-3-0-2/45567)
 ![backup_official_response.png](images/120638853-backup_official_response.png)
 
-## MySQL database (mysqldump procedure)
+#### MySQL database (mysqldump procedure)
 * [How To Backup Databases Using mysqldump Tool](http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx)
 
-# config.inc.php (check this settings)
+##### config.inc.php (check this settings)
 
       ; Enable support for running scheduled tasks
       ; Set this to On if you have set up the scheduled tasks script to
@@ -48,7 +48,7 @@
       enable_cdn = On  (CHANGE TO THIS)  (BOOTSTRAP FOSTER CDN linking, so keep it)
    ![config-php.jpg](https://bitbucket.org/repo/rpybXp8/images/4241243587-config-php.jpg)
       
-## Links
+#### Links
 * https://forum.pkp.sfu.ca/t/backup-configuration/23566
 * https://forum.pkp.sfu.ca/t/after-upgrading-2-4-6-backup-database-doesnt-work/724
 * query of [backup](https://forum.pkp.sfu.ca/search?q=backup) term on OJS forum

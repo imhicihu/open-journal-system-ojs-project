@@ -44,7 +44,8 @@ codes, e.g. `fr_FR`, is recommended):
 	- `plugins/[plugin category]/[plugin name]/locale`, where applicable
 * New locales must also be added to the file `registry/locales.xml`. Edit accordingly
 * Verify character encoding (preferred `utf-8` format). In a way, we’re storing utf8 data in a utf8 database. Therefore, run these command from the terminal
-* ![code.png](https://bitbucket.org/repo/rpybXp8/images/3542055665-carbon.png)
+<BR></BR>
+![code.png](https://bitbucket.org/repo/rpybXp8/images/3542055665-carbon.png)
 * We are ensuring that the OJS `config.inc.php` settings match the data and `db` settings
 * Clear it off comments your css file
 
@@ -57,8 +58,8 @@ codes, e.g. `fr_FR`, is recommended):
      * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
      * [Custom Header](https://github.com/asmecher/customHeader/)
      * [backup](https://github.com/asmecher/backup)
-	 * Google Analytics
-	 * DOI
+	   * Google Analytics
+	   * DOI
      * [StaticPages](https://github.com/pkp/staticPages)
      * [Shariff plugin](https://github.com/ojsde/shariff)
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)

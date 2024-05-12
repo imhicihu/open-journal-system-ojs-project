@@ -58,8 +58,8 @@ codes, e.g. `fr_FR`, is recommended):
      * [Allowed Uploads](https://github.com/ajnyga/allowedUploads)
      * [Custom Header](https://github.com/asmecher/customHeader/)
      * [backup](https://github.com/asmecher/backup)
-	   * Google Analytics
-	   * DOI
+     * Google Analytics
+     * DOI
      * [StaticPages](https://github.com/pkp/staticPages)
      * [Shariff plugin](https://github.com/ojsde/shariff)
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)

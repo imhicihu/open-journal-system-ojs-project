@@ -1,4 +1,4 @@
-# config.inc.php (check this settings)
+### config.inc.php (check this settings)
 
 
       ; Enable support for running scheduled tasks

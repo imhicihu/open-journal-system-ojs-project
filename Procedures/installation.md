@@ -1,5 +1,5 @@
 ### Procedures
-### System
+#### System
 * Download OJS from [here](https://pkp.sfu.ca/ojs/ojs_download/)
 * System requeriments (recommended). Your server will need:
 	- PHP >= 7.0
@@ -7,7 +7,7 @@
 	- Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6
 * Operating system: 
 	- Any OS: Linux, BSD, Solaris, Mac OS X, Windows
-### Installation
+#### Installation
 * Download from extract the OJS archive to the desired location in your web documents directory
 * Make the following files and directories (and their contents) writeable:
 	- `config.inc.php` (_optional_, if not writable you will be prompted to manually overwrite this file during installation)
@@ -49,7 +49,7 @@ codes, e.g. `fr_FR`, is recommended):
 * We are ensuring that the OJS `config.inc.php` settings match the data and `db` settings
 * Clear it off comments your css file
 
-### Configuration
+#### Configuration
 * Browse to the `Settings` > `Websites` > `Plugins` > `Plugin Gallery` page in your Open Journal Systems website setup.
 * Enable this plugins:
      * [Backup](https://github.com/asmecher/backup)
@@ -65,8 +65,7 @@ codes, e.g. `fr_FR`, is recommended):
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
 * Install a font (preferred) that support non-western glyphs and ligatures. More data can be found [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/typography/fonts.md)
 
-
-### Maintenance
+#### Maintenance
 * Verify your webserver error log
 * Verify your file permissions
 * Check your memory limit on your `PHP` settings. It’s normally set at `8mb` by default, but OJS need at least `16mb` set to run properly. You can find a `memory_limit` configuration directive in your server’s `php.ini` config file.

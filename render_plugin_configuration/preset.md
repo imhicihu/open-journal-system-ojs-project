@@ -1,4 +1,4 @@
-# Main setting
+### Main setting
 * Preset name: `default*.*`
 
 ### Output

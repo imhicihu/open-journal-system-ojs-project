@@ -1,4 +1,5 @@
-- [-] Servidor
+### Checklist
+- [ ] Servidor
 	- [ ] Plantillas
 		- [ ] Subirlas y habilitarlas
 		- [ ] Habilitar Custom page plugin
@@ -6,20 +7,20 @@
 			- [ ] 404.html (Page not found)
 			- [ ] Colophon page
 			- [ ] 503.html (service unavailable)
-			- [ ] Status online (estado del arte del servidor)
+			- [x] [Status online](https://imhicihu.statuspage.io/) (estado del arte del servidor)
 			- [ ] Política de cookies (texto)
 			- [ ] Política de privacidad (texto)
 			- [ ] Mapa del sitio
 	- [ ] Iconos
 		- [ ] favicon.ico
 		- [ ] verificar con: https://realfavicongenerator.net/
-	- [-] Backup
-		- [+] CRON job
-			- [+] Ver: https://bitbucket.org/snippets/imhicihu/bed47L/ojs-cron-job
-		- [+] Habilitar Backup plugin
-			- [+] Ver: https://pkp.sfu.ca/ojs/doxygen/master/html/group__plugins__generic__backup.html
-		- [+] Scheduled tasks
-			- [+] Ver: https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks
+	- [ ] Backup
+		- [x] CRON job
+			- [x] Ver: https://bitbucket.org/snippets/imhicihu/bed47L/ojs-cron-job
+		- [x] Habilitar Backup plugin
+			- [x] Ver: https://pkp.sfu.ca/ojs/doxygen/master/html/group__plugins__generic__backup.html
+		- [x] Scheduled tasks
+			- [x] Ver: https://github.com/pkp/ojs/tree/master/docs#scheduled-tasks
 		- [ ] mySQL database
 			- [ ] Ver: http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx
 	- [ ] Tipografías
@@ -33,30 +34,30 @@
 		- [+] .hjtaccess
 		- [ ] Spam & bots
 			- [ ] Relacionar cuenta de Gmail con Google Recaptcha. Ver: https://www.google.com/recaptcha/intro/v3beta.html
-		- [+] robot.txt
-			- [+] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/robot.txt?at=master&fileviewer=file-view-default
-		- [ ] CNAME
-			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/CNAME?at=master
-		- [ ] config.inc.php
-			- [ ] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/config.inc.php/config.inc.md?at=master&fileviewer=file-view-default
-		- [+] Habilitar File Type restriction plugin
-			- [+] Ver https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/file_type_restriction.md?at=master&fileviewer=file-view-default
+		- [x] robots.txt
+			- [x] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/robot.txt?at=master&fileviewer=file-view-default
+		- [x] CNAME
+			- [x] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/CNAME?at=master
+		- [x] config.inc.php
+			- [x] Ver: https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/config.inc.php/config.inc.md?at=master&fileviewer=file-view-default
+		- [x] Habilitar File Type restriction plugin
+			- [x] Ver https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/765edcf5ce11273f580fc422216a9e8adb3cc760/file_type_restriction.md?at=master&fileviewer=file-view-default
 		- [ ] Monitor online
 			- [ ] Agregar URL a estos sitios:
 				- [ ] Monitor us > https://www.monitis.com/
 				- [ ] UptimeRobot > https://uptimerobot.com/
 				- [ ] Montastic > https://montastic.com/
 				- [ ] BasicState > http://basicstate.com/
-	- [+] Plugins
-		- [+] iThenticate: habilitado
-		- [+] QuickSubmit: habilitado
-		- [+] Allowed uploads: habilitado
-		- [+] Custom header: habilitado
-		- [+] Backup: habilitado
-		- [+] Google Analytics: habilitado
-		- [+] DOI: habilitado
-	- [-] Analíticas
-		- [+] Habilitar Google Analytics plugin
+	- [x] Plugins
+		- [x] iThenticate: habilitado
+		- [x] QuickSubmit: habilitado
+		- [x] Allowed uploads: habilitado
+		- [x] Custom header: habilitado
+		- [x] Backup: habilitado
+		- [x] Google Analytics: habilitado
+		- [x] DOI: habilitado
+	- [x] Analíticas
+		- [x] Habilitar Google Analytics plugin
 		- [ ] abrir cuenta de Gmail. Relacionar dicha cuenta con Google Analytics y el servidor conteniendo el OJS
 	- [ ] Legales
 		- [ ] Política de cookies

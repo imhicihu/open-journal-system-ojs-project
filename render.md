@@ -1,1 +1,0 @@
-* Retrieve the profile created for the prospect (in the macbook 15")

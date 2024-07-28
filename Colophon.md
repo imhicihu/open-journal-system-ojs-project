@@ -86,7 +86,7 @@
   - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
   - [Google Noto](https://www.google.com/get/noto/)
     <BR></BR>
-    ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)        
+    ![noto-font-google.gif](/images/652861917-noto-font-google.gif)        
     - our own fonts (in the making). More data can be found [here](https://bitbucket.org/imhicihu/imhicihu-webfont)
   - Font previewer
     - [FontGoogles](https://fontgoggles.org/): Interactive Previewing and Comparing fonts in a glimpse
@@ -162,4 +162,4 @@
      
 ### Legal
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners

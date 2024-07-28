@@ -13,7 +13,7 @@
 * [Backup & upgrade (scalar)](https://github.com/pkp/ojs/blob/master/docs/UPGRADE.md)
 * [Backing up the OJS System Files](https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html)
 * [[SOLVED] Where is the backup section of OJS 3.0.2](https://forum.pkp.sfu.ca/t/solved-where-is-the-backup-section-of-ojs-3-0-2/45567)
-![backup_official_response.png](images/120638853-backup_official_response.png)
+![backup_official_response.png](/images/120638853-backup_official_response.png)
 
 #### MySQL database (mysqldump procedure)
 * [How To Backup Databases Using mysqldump Tool](http://www.mysqltutorial.org/how-to-backup-database-using-mysqldump.aspx)
@@ -46,7 +46,7 @@
       
       ; Allow javascript files to be served through a content delivery network (set to off to use local files)
       enable_cdn = On  (CHANGE TO THIS)  (BOOTSTRAP FOSTER CDN linking, so keep it)
-   ![config-php.jpg](https://bitbucket.org/repo/rpybXp8/images/4241243587-config-php.jpg)
+   ![config-php.jpg](/images/4241243587-config-php.jpg)
       
 #### Links
 * https://forum.pkp.sfu.ca/t/backup-configuration/23566

@@ -20,7 +20,7 @@
 * Create a subdirectory that will host your pdfs, jpeg, etc. Protect it under a rule inside the `.htaccess` file
 * Open a web browser to `http://yourdomain.com/path/to/ojs/` and follow the on-screen installation instructions
 * Verify `config.inc.php` for additional configuration settings
-![config.php.jpg](https://bitbucket.org/repo/rpybXp8/images/4241243587-config-php.jpg)
+![config.php.jpg](/images/4241243587-config-php.jpg)
 * Verify your server API PHP. If OJS is already installed, log in as Site Administrator, click `System Information`, and at the bottom of the page, click `Extended PHP Information`. Find the line that says `Server API`. Depending on which API you are using (`mod_php/SAPI` or `CGI/FastCGI`), permissions should be set as follow: 
 	- mod_php/SAPI: In this configuration, all PHP scripts on the system typically execute as the same user (usually Apache’s “nobody” or “www-data” accounts). Be warned that this may be insecure on a shared host. The `files_dir` (configured in `config.inc.php`), the cache directory, the public directory, and all contents and subdirectories must be writable and readable by the web server user. The `config.inc.php` configuration file must be readable by the web server user
 	- CGI/FastCGI: PHP scripts will typically run under your user account (though server configurations may vary). This can be a well-secured configuration. The `files_dir` (configured in `config.inc.php`), the cache directory, the public directory, and all contents and subdirectories must be writable and readable by this user account. The `config.inc.php` configuration file must be readable by this account.
@@ -31,7 +31,7 @@
 ```
 
 * check your `file_type_restriction.ini`
-![configini.png](https://bitbucket.org/repo/rpybXp8/images/3968091645-configini.png)
+![configini.png](/images/3968091645-configini.png)
 * `PHP Safe Mode` is not a recommended configuration and may not function properly
 * Across time, it will be warned about updates. Apply accordingly
 * Check `docs` directory: there it contains configuration, installation or upgrade questions
@@ -44,8 +44,7 @@ codes, e.g. `fr_FR`, is recommended):
 	- `plugins/[plugin category]/[plugin name]/locale`, where applicable
 * New locales must also be added to the file `registry/locales.xml`. Edit accordingly
 * Verify character encoding (preferred `utf-8` format). In a way, we’re storing utf8 data in a utf8 database. Therefore, run these command from the terminal
-<BR></BR>
-![code.png](https://bitbucket.org/repo/rpybXp8/images/3542055665-carbon.png)
+![code.png](/images/3542055665-carbon.png)
 * We are ensuring that the OJS `config.inc.php` settings match the data and `db` settings
 * Clear it off comments your css file
 
@@ -63,7 +62,7 @@ codes, e.g. `fr_FR`, is recommended):
      * [StaticPages](https://github.com/pkp/staticPages)
      * [Shariff plugin](https://github.com/ojsde/shariff)
      * [JATS Template Plugin](https://github.com/asmecher/jatsTemplate/)
-* Install a font (preferred) that support non-western glyphs and ligatures. More data can be found [here](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/typography/fonts.md)
+* Install a font (preferred) that support non-western glyphs and ligatures. More data can be found [here](/typography/fonts.md)
 
 #### Maintenance
 * Verify your webserver error log

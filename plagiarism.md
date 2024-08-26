@@ -39,8 +39,8 @@
 | [NoPlag](https://noplag.com/free-plagiarism-checker/) | |
 | [Plagiarismcheckerx](https://plagiarismcheckerx.com/) | |
 | [Plagiarism list](https://paraphrase.projecttopics.org/free-plagiarism-checker-turnitin-alternative-software) | |
-| [Plagiarism check](https://plag.co/plagiarism-check.php) |
-[R query about R package plagiarism](https://www.reddit.com/r/rstats/comments/68nmbm/plagiarism_analysis_in_r/) |
+| [Plagiarism check](https://plag.co/plagiarism-check.php) ||
+| [R query about R package plagiarism](https://www.reddit.com/r/rstats/comments/68nmbm/plagiarism_analysis_in_r/) |
 | [Rexamine](http://similar.rexamine.com/) | |
 | [Plagiarism_detection](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp) | |
 | [Plagiarism-checker.me](https://www.plagiarism-checker.me/) | |

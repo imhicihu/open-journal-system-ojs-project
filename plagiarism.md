@@ -46,3 +46,4 @@
 | [Plagiarism-checker.me](https://www.plagiarism-checker.me/) | |
 | [Sherlock](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/) | | 
 | [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/) | |
+| [ZeroGPT](https://www.zerogpt.com/) | GPT-4, ChatGPT and AI Detector tool |

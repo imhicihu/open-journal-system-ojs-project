@@ -1,7 +1,7 @@
 ### Procedures
 #### System
 * Download OJS from [here](https://pkp.sfu.ca/ojs/ojs_download/)
-* System requeriments (recommended). Your server will need:
+* System requirements (recommended). Your server will need:
 	- PHP >= 7.0
 	- MySQL/MariaDB 4.1 or later or PostgreSQL 9.1.5 or later
 	- Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6
